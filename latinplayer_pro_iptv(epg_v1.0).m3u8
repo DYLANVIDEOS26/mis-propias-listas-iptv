@@ -237,19 +237,19 @@ http://168.196.127.137:6001/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="https://i.imgur.com/gq0R0qX.png" group-title="ATRESPLAYER INT.", A3P | Hola TV
 http://38.190.100.202:8000/play/a0al/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/mJHyEo7.png" group-title="UNIVERSAL+ LATAM", U+ | CINEMA
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-logo="https://i.imgur.com/mJHyEo7.png" group-title="UNIVERSAL+ LATAM", U+ | CINEMA
 http://38.190.100.202:8000/play/a04z/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/jbDqkKs.png" group-title="UNIVERSAL+ LATAM", U+ | COMEDY
+#EXTINF:-1 tvg-id="U+ | COMEDY" tvg-logo="https://i.imgur.com/jbDqkKs.png" group-title="UNIVERSAL+ LATAM", U+ | COMEDY
 http://38.190.100.202:8000/play/a04s/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/LZcA7hU.png" group-title="UNIVERSAL+ LATAM", U+ | CRIME
+#EXTINF:-1 tvg-id="U+ | CRIME" tvg-logo="https://i.imgur.com/LZcA7hU.png" group-title="UNIVERSAL+ LATAM", U+ | CRIME
 http://38.190.100.202:8000/play/a05s/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/kgD2QDH.png" group-title="UNIVERSAL+ LATAM", U+ | PREMIERE
+#EXTINF:-1 tvg-id="U+ | PREMIERE" tvg-logo="https://i.imgur.com/kgD2QDH.png" group-title="UNIVERSAL+ LATAM", U+ | PREMIERE
 http://38.190.100.202:8000/play/a04p/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/9rM1dOR.png" group-title="UNIVERSAL+ LATAM", U+ | REALITY
+#EXTINF:-1 tvg-id="U+ | REALITY" tvg-logo="https://i.imgur.com/9rM1dOR.png" group-title="UNIVERSAL+ LATAM", U+ | REALITY
 http://38.190.100.202:8000/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV Banda" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvbanda_400x200_lg.png" group-title="FREE TV LATAM", FreeTV Banda
@@ -1815,9 +1815,6 @@ http://190.128.214.97:64333/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES ARGENTINA", DEP | TyC Sports Argentina
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:-1 tvg-id="tigo-sports.py" tvg-logo="https://i.imgur.com/fDGZiH5.png" group-title="DEPORTES PARAGUAY", PY | Tigo Sports
-http://45.170.130.224:8000/play/a04i/index.m3u8
-
 #EXTINF:-1 tvg-id="CO | Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="DEPORTES COLOMBIA", CO | Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 
@@ -1826,9 +1823,6 @@ http://wispcinema.sytes.net:25461/obedchile/18112022/1472.m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/gauUces.png" group-title="DEPORTES ECUADOR", EC | ECDF
 http://45.226.205.96:48000/play/a08y/index.m3u8
-
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/fDGZiH5.png" group-title="DEPORTES BOLIVIA", BO | Tigo Sports (GEO)
-https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 
 #EXTINF:-1 tvg-id="628dtv.cl" tvg-logo="https://i.imgur.com/AQ1kRNp.png" group-title="DEPORTES INT.", DEP | Golf Channel
 http://72.1.184.5:8089/play/a0cw/index.m3u8
@@ -1932,17 +1926,17 @@ https://cablered.iptvperu.tv:1936/cablered/tntnovelas_new/playlist.m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="https://i.imgur.com/aIKvTRb.png" group-title="CULTURA Y ESTILO DE VIDA", C | Animal Planet
 https://streaming.onnethn.com/ANIMAL_PLANET_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="https://i.imgur.com/3fLDT2w.png" group-title="CULTURA Y ESTILO DE VIDA", C | Discovery Theater
-http://45.186.254.75:8000/play/a0fp/index.m3u8
-
-#EXTINF:-1 tvg-id="740dtv.cl" tvg-logo="https://i.imgur.com/HRkQbzx.png" group-title="CULTURA Y ESTILO DE VIDA", C | Discovery TLC
-https://streaming.onnethn.com/TLC/playlist.m3u8
-
 #EXTINF:-1 tvg-id="732dtv.co" tvg-logo="https://i.imgur.com/ZEXS5su.png" group-title="CULTURA Y ESTILO DE VIDA", C | Discovery Channel
 http://45.186.254.75:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="https://i.imgur.com/5iqhtH2.png" group-title="CULTURA Y ESTILO DE VIDA", C | Discovery ID
 https://streaming.onnethn.com/ID/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="https://i.imgur.com/3fLDT2w.png" group-title="CULTURA Y ESTILO DE VIDA", C | Discovery Theater
+http://45.186.254.75:8000/play/a0fp/index.m3u8
+
+#EXTINF:-1 tvg-id="740dtv.cl" tvg-logo="https://i.imgur.com/HRkQbzx.png" group-title="CULTURA Y ESTILO DE VIDA", C | Discovery TLC
+https://streaming.onnethn.com/TLC/playlist.m3u8
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://i.imgur.com/7nV4Uoe.png" group-title="CULTURA Y ESTILO DE VIDA", C | Discovery Turbo
 https://streaming.onnethn.com/DISCOVERY_TURBO/playlist.m3u8
@@ -1950,17 +1944,17 @@ https://streaming.onnethn.com/DISCOVERY_TURBO/playlist.m3u8
 #EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://i.imgur.com/bqU227K.png" group-title="CULTURA Y ESTILO DE VIDA", C | DW Spanish
 https://cablered.iptvperu.tv:1936/cablered/dw_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/D0CWtiN.png" group-title="CULTURA Y ESTILO DE VIDA", C | History 2
-https://streaming.onnethn.com/HISTORY_2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/lJkipAf.png" group-title="CULTURA Y ESTILO DE VIDA", C | History Channel
-https://streaming.onnethn.com/HISTORY_HD/playlist.m3u8
-
 #EXTINF:-1 tvg-id="865mvstr.cl" tvg-logo="https://i.imgur.com/FrBEwxG.png" group-title="CULTURA Y ESTILO DE VIDA", C | Love Nature
 https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
 
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://i.imgur.com/GD8Vz4a.png" group-title="CULTURA Y ESTILO DE VIDA", C | National Geographic
 https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/lJkipAf.png" group-title="CULTURA Y ESTILO DE VIDA", C | History Channel
+https://streaming.onnethn.com/HISTORY_HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/D0CWtiN.png" group-title="CULTURA Y ESTILO DE VIDA", C | History 2
+https://streaming.onnethn.com/HISTORY_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="https://i.imgur.com/PC3tYFI.png" group-title="CULTURA Y ESTILO DE VIDA", E | Discovery H&H
 https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
@@ -1968,7 +1962,7 @@ https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
 #EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/50ZzrG5.png" group-title="CULTURA Y ESTILO DE VIDA", E | Food Network
 https://cablered.iptvperu.tv:1936/cablered/foodnetwork_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/0qrlHui.png" group-title="CULTURA Y ESTILO DE VIDA", E | Lifetime
+#EXTINF:-1 tvg-id="E | Lifetime" tvg-logo="https://i.imgur.com/0qrlHui.png" group-title="CULTURA Y ESTILO DE VIDA", E | Lifetime
 https://streaming.onnethn.com/LIFETIME/playlist.m3u8
 
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://i.imgur.com/ZFnZHwW.png" group-title="VARIADOS", V | Las Estrellas
