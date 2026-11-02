@@ -165,32 +165,32 @@ https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8
 #EXTINF:-1 tvg-id="canal-9-snt.py" tvg-logo="https://alba-py-snt.cdn.mediatiquepress.com/wp-content/uploads/2023/07/logo-1-150x68.png" group-title="PARAGUAY", PY | SNT
 https://ddycmnicl95kp.cloudfront.net/live/25646ipbno2g/master.m3u8
 
-#EXTINF:-1 tvg-id="CO | Canal 1" tvg-logo="http://wispcinema2.sytes.net:25461/images/18f64422b27107c63294ee443b21f193.png" group-title="COLOMBIA", CO | Canal 1
+#EXTINF:-1 tvg-id="136dtv.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/18f64422b27107c63294ee443b21f193.png" group-title="COLOMBIA", CO | Canal 1
 http://wispcinema.sytes.net:25461/obedchile/18112022/6767.m3u8
+
+#EXTINF:-1 tvg-id="133dtv.co" tvg-logo="https://i.imgur.com/twwVlE3.png" group-title="COLOMBIA", CO | City TV
+http://wispcinema.sytes.net:25461/obedchile/18112022/10237.m3u8
+
+#EXTINF:-1 tvg-id="140dtv.co" tvg-logo="https://i.imgur.com/QSAN8Ks.png" group-title="COLOMBIA", CO | Teleantioquia
+http://wispcinema.sytes.net:25461/obedchile/18112022/1478.m3u8
+
+#EXTINF:-1 tvg-id="141dtv.co" tvg-logo="https://i.imgur.com/Yj4FNVb.png" group-title="COLOMBIA", CO | Telemedellin
+http://wispcinema.sytes.net:25461/obedchile/18112022/7991.m3u8
+
+#EXTINF:-1 tvg-id="142dtv.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/b5f63dedb841639e424f71ae4c01c2f5.png" group-title="COLOMBIA", CO | Telecaribe
+http://wispcinema.sytes.net:25461/obedchile/18112022/10078.m3u8
+
+#EXTINF:-1 tvg-id="137dtv.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/45bc1543688ad65da10ae1d972e46043.png" group-title="COLOMBIA", CO | Señal Colombia
+http://wispcinema.sytes.net:25461/obedchile/18112022/7507.m3u8
+
+#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="http://wispcinema2.sytes.net:25461/images/8944f9f3e66862c345a822e5a525597e.png" group-title="COLOMBIA", CO | Canal RCN
+http://wispcinema.sytes.net:25461/obedchile/18112022/1477.m3u8
 
 #EXTINF:-1 tvg-id="CO | Caracol" tvg-logo="http://wispcinema2.sytes.net:25461/images/e717977afd55c28533ac62205945f728.png" group-title="COLOMBIA", CO | Caracol
 http://wispcinema.sytes.net:25461/obedchile/18112022/1476.m3u8
 
-#EXTINF:-1 tvg-id="CO | Canal RCN" tvg-logo="http://wispcinema2.sytes.net:25461/images/8944f9f3e66862c345a822e5a525597e.png" group-title="COLOMBIA", CO | Canal RCN
-http://wispcinema.sytes.net:25461/obedchile/18112022/1477.m3u8
-
-#EXTINF:-1 tvg-id="CO | City TV" tvg-logo="https://i.imgur.com/twwVlE3.png" group-title="COLOMBIA", CO | City TV
-http://wispcinema.sytes.net:25461/obedchile/18112022/10237.m3u8
-
-#EXTINF:-1 tvg-id="CO | Telemedellin" tvg-logo="https://i.imgur.com/Yj4FNVb.png" group-title="COLOMBIA", CO | Telemedellin
-http://wispcinema.sytes.net:25461/obedchile/18112022/7991.m3u8
-
-#EXTINF:-1 tvg-id="CO | Teleantioquia" tvg-logo="https://i.imgur.com/QSAN8Ks.png" group-title="COLOMBIA", CO | Teleantioquia
-http://wispcinema.sytes.net:25461/obedchile/18112022/1478.m3u8
-
 #EXTINF:-1 tvg-id="CO | Telepacifico" tvg-logo="http://wispcinema2.sytes.net:25461/images/f36f2d4de2f05014cb9781ae5e803713.png" group-title="COLOMBIA", CO | Telepacifico
 http://wispcinema.sytes.net:25461/obedchile/18112022/9592.m3u8
-
-#EXTINF:-1 tvg-id="CO | Telecaribe" tvg-logo="http://wispcinema2.sytes.net:25461/images/b5f63dedb841639e424f71ae4c01c2f5.png" group-title="COLOMBIA", CO | Telecaribe
-http://wispcinema.sytes.net:25461/obedchile/18112022/10078.m3u8
-
-#EXTINF:-1 tvg-id="CO | Señal Colombia" tvg-logo="http://wispcinema2.sytes.net:25461/images/45bc1543688ad65da10ae1d972e46043.png" group-title="COLOMBIA", CO | Señal Colombia
-http://wispcinema.sytes.net:25461/obedchile/18112022/7507.m3u8
 
 #EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="ECUADOR", EC | Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
@@ -1764,10 +1764,10 @@ http://190.128.214.97:64333/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES ARGENTINA", DEP | TyC Sports Argentina
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="DEPORTES COLOMBIA", CO | Win Sports
+#EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="DEPORTES COLOMBIA", CO | Win Sports
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="DEPORTES COLOMBIA", CO | Win+ Futbol
+#EXTINF:-1 tvg-id="634dtv.co" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="DEPORTES COLOMBIA", CO | Win+ Futbol
 http://wispcinema.sytes.net:25461/obedchile/18112022/1472.m3u8
 
 #EXTINF:-1 tvg-id="628dtv.cl" tvg-logo="https://i.imgur.com/AQ1kRNp.png" group-title="DEPORTES INT.", DEP | Golf Channel
