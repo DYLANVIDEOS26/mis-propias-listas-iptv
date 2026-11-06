@@ -6,7 +6,7 @@ http://190.93.224.42/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/RzZ1JG7.png" group-title="Perú", (2.1) Latina HD
 http://190.93.224.42/LATINA/index.m3u8
 
-#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/mdLL3Do.png" group-title="Perú", (3.1) RPP Perú
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/mdLL3Do.png" group-title="Perú", (3.1) RPP HD
 http://190.93.224.42/RPP/index.m3u8
 
 #EXTINF:-1 tvg-id="4mvstr.pe" tvg-logo="https://i.imgur.com/u1InmP4.png" group-title="Perú", (4.1) América TV HD
@@ -15,19 +15,25 @@ http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.imgur.com/lmLVmdW.png" group-title="Perú", (5.1) Panamericana HD
 http://190.93.224.42/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.imgur.com/0xXGha2.png" group-title="Perú", (6.1) Exitosa Perú
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.imgur.com/0xXGha2.png" group-title="Perú", (6.1) Exitosa HD
 http://190.93.224.42/EXITOSA/index.m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://i.imgur.com/Pvdf93j.png" group-title="Perú", (7.1) TV Perú HD
 http://190.93.224.42/TV-PERU/index.m3u8
 
-#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/uhCBWG3.png" group-title="Perú", (8.1) ATV+ Perú
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/uhCBWG3.png" group-title="Perú", (8.1) ATV+ HD
 http://190.93.224.42/ATV-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://i.imgur.com/SB8c6X6.png" group-title="Perú", (9.1) ATV HD
 http://190.93.224.42/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://i.imgur.com/s1jbaXA.png" group-title="Perú", (11.1) USMP TV
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://i.imgur.com/eW9EOZZ.png" group-title="Perú", (10.1) La Tele HD
+http://190.93.224.42/LA-TELE/index.m3u8
+
+#EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://i.imgur.com/JN5W6kn.png" group-title="Perú", (11.1) Viva TV
+http://38.87.224.20:2220/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://i.imgur.com/s1jbaXA.png" group-title="Perú", (12.1) USMP TV HD
 http://190.93.224.42/USMP/index.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://i.imgur.com/ARG7XPe.png" group-title="Perú", (13.1) Global TV HD
