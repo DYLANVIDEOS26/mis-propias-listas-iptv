@@ -15,9 +15,6 @@ http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/p/a/panamericana_hd.png" group-title="PERÚ", PE | Panamericana
 http://190.93.224.42/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://i.imgur.com/STsdSUj.png" group-title="PERÚ", PE | La Tele
-http://190.93.224.42/LA-TELE/index.m3u8
-
 #EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.imgur.com/NtLLJ5B.png" group-title="PERÚ", PE | Exitosa TV
 http://190.93.224.42/EXITOSA/index.m3u8
 
@@ -30,14 +27,14 @@ http://190.93.224.42/ATV-PLUS/index.m3u8
 #EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/t/atv.png" group-title="PERÚ", PE | ATV
 http://190.93.224.42/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/sRiNfHT.png" group-title="PERÚ", PE | Justicia TV
-http://38.87.224.20:2220/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://i.imgur.com/STsdSUj.png" group-title="PERÚ", PE | La Tele
+http://190.93.224.42/LA-TELE/index.m3u8
 
 #EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://i.imgur.com/evxKnJm.png" group-title="PERÚ", PE | Viva TV
 http://38.87.224.20:2220/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://i.imgur.com/gKlUz5L.png" group-title="PERÚ", PE | Juntos TV
-http://45.70.201.81:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/sRiNfHT.png" group-title="PERÚ", PE | Justicia TV
+http://38.87.224.20:2220/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/g/l/global_1.png" group-title="PERÚ", PE | Global TV
 http://190.93.224.42/GLOBAL/index.m3u8
@@ -47,6 +44,9 @@ http://190.93.224.42/IPE/index.m3u8
 
 #EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://i.imgur.com/7PoJ6mE.png" group-title="PERÚ", PE | USMP TV
 http://190.93.224.42/USMP/index.m3u8
+
+#EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://i.imgur.com/gKlUz5L.png" group-title="PERÚ", PE | Juntos TV
+http://45.70.201.81:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/o/v/ovacion.png" group-title="PERÚ", PE | Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
