@@ -213,37 +213,19 @@ http://wispcinema.sytes.net:25461/obedchile/18112022/7991.m3u8
 #EXTINF:-1 tvg-id="CO | Telepacifico" tvg-logo="https://i.imgur.com/ce84W4n.png" group-title="COLOMBIA", CO | Telepacifico
 http://wispcinema.sytes.net:25461/obedchile/18112022/9592.m3u8
 
-#EXTINF:-1 tvg-id="BO | Bolivia TV" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BO | Bolivia TV
-http://190.181.61.93:8000/play/a001/index.m3u8
-
-#EXTINF:-1 tvg-id="Bolivision.bo@SD" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="BOLIVIA", BO | Bolivision
-http://190.181.61.93:8000/play/a00j/index.m3u8
-
-#EXTINF:-1 tvg-id="BO | PAT" tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="BOLIVIA", BO | PAT
-http://190.181.61.93:8000/play/a00e/index.m3u8
-
-#EXTINF:-1 tvg-id="BO | Red Uno" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="BOLIVIA", BO | Red Uno
-http://190.181.61.93:8000/play/a003/index.m3u8
-
-#EXTINF:-1 tvg-id="BO | RTP" tvg-logo="https://i.imgur.com/1Clkuyv.png" group-title="BOLIVIA", BO | RTP
-http://190.181.61.93:8000/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-id="BO | Unitel" tvg-logo="https://i.imgur.com/1zgyf6k.png" group-title="BOLIVIA", BO | Unitel
-http://190.181.61.93:8000/play/1909/index.m3u8
-
-#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR", EC | Ecuavisa
+#EXTINF:-1 tvg-id="182dtv.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR", EC | Ecuavisa
 http://45.224.97.181:9999/Ecuavisa/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-logo="https://i.imgur.com/PeunTBS.png" group-title="ECUADOR", EC | Ecuador TV
+#EXTINF:-1 tvg-id="187dtv.ec" tvg-logo="https://i.imgur.com/PeunTBS.png" group-title="ECUADOR", EC | Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
-#EXTINF:-1 tvg-id="EC | RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="ECUADOR", EC | RTS
+#EXTINF:-1 tvg-id="185dtv.ec" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="ECUADOR", EC | RTS
 http://157.100.248.242:8080/RTSHD/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | TC Television" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", EC | TC Television
+#EXTINF:-1 tvg-id="181dtv.ec" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", EC | TC Television
 http://177.234.218.66:8084/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://i.imgur.com/EbDc5MM.png" group-title="ECUADOR", EC | Teleamazonas
+#EXTINF:-1 tvg-id="180dtv.ec" tvg-logo="https://i.imgur.com/EbDc5MM.png" group-title="ECUADOR", EC | Teleamazonas
 http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://i.imgur.com/Y2b75bg.png" group-title="ATRESPLAYER (PREMIUM)", A3P | Antena 3 Int.
@@ -296,42 +278,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16511&avod=1&coppa=0&td=6&
 
 #EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvestelar_400x200_lg.png" group-title="FREE TV (FAST)", FreeTV Estelar
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-
-#EXTINF:-1 tvg-id="5e709cfe55d955ec899903cde681a5a4" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5e709cfe55d955ec899903cde681a5a4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1698120582938_AI_Roku_260x147_Mono_INTERNACIONAL_CB_Oct23.png" group-title="ROKU (FAST)", Azteca Internacional
-https://jmp2.uk/rok-5e709cfe55d955ec899903cde681a5a4.m3u8
-
-#EXTINF:-1 tvg-id="46eb1feb60da2bc45bee66f313b564de" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/46eb1feb60da2bc45bee66f313b564de/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1773259750272_Azteca_Noticias_260x147_ef.png" group-title="ROKU (FAST)", Azteca Noticias
-https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
-
-#EXTINF:-1 tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b3eb95a883bfcd7b458d9ec965cedb35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744407109321_Roku_EPS_LogoHUD_260x147__.png" group-title="ROKU (FAST)", Barça 24H
-https://jmp2.uk/rok-b3eb95a883bfcd7b458d9ec965cedb35.m3u8
-
-#EXTINF:-1 tvg-id="c5c6a54fbd0328b108453e2537b7eee1" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5c6a54fbd0328b108453e2537b7eee1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774999084418_CMIX_Info_Hud_Log_260x147.png" group-title="ROKU (FAST)", Caracol Mix
-https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
-
-#EXTINF:-1 tvg-id="0de9839c79b758589c580dcdd4b40a8a" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0de9839c79b758589c580dcdd4b40a8a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747831065584_CASO_CERRADO_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku.png" group-title="ROKU (FAST)", Caso Cerrado
-https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
-
-#EXTINF:-1 tvg-id="8acb4f9b8a255216966db355daaa1749" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8acb4f9b8a255216966db355daaa1749/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678136277077_euronews_espanol_260x147.png" group-title="ROKU (FAST)", Euronews Español
-https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8
-
-#EXTINF:-1 tvg-id="5a28fbf15c135b51b3638e8bd02d6577" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5a28fbf15c135b51b3638e8bd02d6577/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772737218229_NMasUnivision247_RokuHUD_260x147_White.png" group-title="ROKU (FAST)", N+ Univision 24/7
-https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
-
-#EXTINF:-1 tvg-id="e6f5a623c45d5757a50e602eb0591f62" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6f5a623c45d5757a50e602eb0591f62/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718135290274_noticias-telemundo-ahora-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png" group-title="ROKU (FAST)", Noticias Telemundo AHORA
-https://jmp2.uk/rok-e6f5a623c45d5757a50e602eb0591f62.m3u8
-
-#EXTINF:-1 tvg-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a9aae4e62e6fd8e401033cd14ceeaaa2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744238957605_RCNNoticiaslogoefefef260x147copyJuanMVelasquez.png" group-title="ROKU (FAST)", RCN Noticias
-https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
-
-#EXTINF:-1 tvg-id="eaeb1f4ef8ed510e8bc2a3fd78510c30" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eaeb1f4ef8ed510e8bc2a3fd78510c30/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752267199574_Runtime_USH_HUD_260x147.png" group-title="ROKU (FAST)", Runtime Español
-https://jmp2.uk/rok-eaeb1f4ef8ed510e8bc2a3fd78510c30.m3u8
-
-#EXTINF:-1 tvg-id="8e0bb4b7ca7c5ea1af52427462297f38" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e0bb4b7ca7c5ea1af52427462297f38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746812594347_TELEMUNDO_AL_DIA_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku.png" group-title="ROKU (FAST)", Telemundo Al Día
-https://jmp2.uk/rok-8e0bb4b7ca7c5ea1af52427462297f38.m3u8
-
-#EXTINF:-1 tvg-id="cc04d77fd589a818cd036c850b6be867" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cc04d77fd589a818cd036c850b6be867/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744240561744_LogoVVI260-147NoBKG.png" group-title="ROKU (FAST)", Venevisión Internacional
-https://jmp2.uk/rok-cc04d77fd589a818cd036c850b6be867.m3u8
 
 #EXTINF:-1 tvg-id="61a52615cbef2500072876e2" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="PLUTO (FAST)", Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
@@ -909,6 +855,42 @@ https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 #EXTINF:-1 tvg-id="66b3af1c3a4ad200081c7d03" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG_1785345339690.png" group-title="PLUTO (FAST)", Z Nation
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 
+#EXTINF:-1 tvg-id="5e709cfe55d955ec899903cde681a5a4" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5e709cfe55d955ec899903cde681a5a4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1698120582938_AI_Roku_260x147_Mono_INTERNACIONAL_CB_Oct23.png" group-title="ROKU (FAST)", Azteca Internacional
+https://jmp2.uk/rok-5e709cfe55d955ec899903cde681a5a4.m3u8
+
+#EXTINF:-1 tvg-id="46eb1feb60da2bc45bee66f313b564de" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/46eb1feb60da2bc45bee66f313b564de/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1773259750272_Azteca_Noticias_260x147_ef.png" group-title="ROKU (FAST)", Azteca Noticias
+https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
+
+#EXTINF:-1 tvg-id="b3eb95a883bfcd7b458d9ec965cedb35" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b3eb95a883bfcd7b458d9ec965cedb35/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744407109321_Roku_EPS_LogoHUD_260x147__.png" group-title="ROKU (FAST)", Barça 24H
+https://jmp2.uk/rok-b3eb95a883bfcd7b458d9ec965cedb35.m3u8
+
+#EXTINF:-1 tvg-id="c5c6a54fbd0328b108453e2537b7eee1" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5c6a54fbd0328b108453e2537b7eee1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774999084418_CMIX_Info_Hud_Log_260x147.png" group-title="ROKU (FAST)", Caracol Mix
+https://jmp2.uk/rok-c5c6a54fbd0328b108453e2537b7eee1.m3u8
+
+#EXTINF:-1 tvg-id="0de9839c79b758589c580dcdd4b40a8a" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0de9839c79b758589c580dcdd4b40a8a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747831065584_CASO_CERRADO_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku.png" group-title="ROKU (FAST)", Caso Cerrado
+https://jmp2.uk/rok-0de9839c79b758589c580dcdd4b40a8a.m3u8
+
+#EXTINF:-1 tvg-id="8acb4f9b8a255216966db355daaa1749" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8acb4f9b8a255216966db355daaa1749/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678136277077_euronews_espanol_260x147.png" group-title="ROKU (FAST)", Euronews Español
+https://jmp2.uk/rok-8acb4f9b8a255216966db355daaa1749.m3u8
+
+#EXTINF:-1 tvg-id="5a28fbf15c135b51b3638e8bd02d6577" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5a28fbf15c135b51b3638e8bd02d6577/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1772737218229_NMasUnivision247_RokuHUD_260x147_White.png" group-title="ROKU (FAST)", N+ Univision 24/7
+https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
+
+#EXTINF:-1 tvg-id="e6f5a623c45d5757a50e602eb0591f62" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e6f5a623c45d5757a50e602eb0591f62/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1718135290274_noticias-telemundo-ahora-fclogo-72-dpi-260-x-147-260-147-roku-hud-logo-center-align-efefef-w-trans-bkgd-1.png" group-title="ROKU (FAST)", Noticias Telemundo AHORA
+https://jmp2.uk/rok-e6f5a623c45d5757a50e602eb0591f62.m3u8
+
+#EXTINF:-1 tvg-id="a9aae4e62e6fd8e401033cd14ceeaaa2" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a9aae4e62e6fd8e401033cd14ceeaaa2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744238957605_RCNNoticiaslogoefefef260x147copyJuanMVelasquez.png" group-title="ROKU (FAST)", RCN Noticias
+https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
+
+#EXTINF:-1 tvg-id="eaeb1f4ef8ed510e8bc2a3fd78510c30" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eaeb1f4ef8ed510e8bc2a3fd78510c30/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752267199574_Runtime_USH_HUD_260x147.png" group-title="ROKU (FAST)", Runtime Español
+https://jmp2.uk/rok-eaeb1f4ef8ed510e8bc2a3fd78510c30.m3u8
+
+#EXTINF:-1 tvg-id="8e0bb4b7ca7c5ea1af52427462297f38" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e0bb4b7ca7c5ea1af52427462297f38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746812594347_TELEMUNDO_AL_DIA_260x147_2x1_logo_center_align_EFEFEF_transparent_bkgd_roku.png" group-title="ROKU (FAST)", Telemundo Al Día
+https://jmp2.uk/rok-8e0bb4b7ca7c5ea1af52427462297f38.m3u8
+
+#EXTINF:-1 tvg-id="cc04d77fd589a818cd036c850b6be867" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cc04d77fd589a818cd036c850b6be867/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744240561744_LogoVVI260-147NoBKG.png" group-title="ROKU (FAST)", Venevisión Internacional
+https://jmp2.uk/rok-cc04d77fd589a818cd036c850b6be867.m3u8
+
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://i.imgur.com/zT9rqWc.png" group-title="MOVISTAR (SOLO PERÚ)", MVSTR | M Deportes Peru
 http://45.186.254.75:8000/play/a0es/index.m3u8
 
@@ -984,7 +966,7 @@ http://45.226.205.96:48000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="628dtv.cl" tvg-logo="https://i.imgur.com/n5qkpY7.png" group-title="DEPORTES INT.", DEP | Golf Channel
 http://72.1.184.5:8089/play/a0cw/index.m3u8
 
-#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8wjzn31605555626.png" group-title="DEPORTES INT.", DEP | TyC Sports Int.
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://i.imgur.com/GR5yP8t.png" group-title="DEPORTES INT.", DEP | TyC Sports Int.
 http://45.186.254.75:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-id="211mvstr.ar" tvg-logo="https://i.imgur.com/71plRdf.png" group-title="DEPORTES INT.", DEP | PX Sports
@@ -1126,7 +1108,7 @@ https://streaming.onnethn.com/TLC/playlist.m3u8
 https://streaming.onnethn.com/DISCOVERY_TURBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://i.imgur.com/bqU227K.png" group-title="CULTURAL", C | DW Spanish
-https://cablered.iptvperu.tv:1936/cablered/dw_new/playlist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 #EXTINF:-1 tvg-id="865mvstr.cl" tvg-logo="https://i.imgur.com/FrBEwxG.png" group-title="CULTURAL", C | Love Nature
 https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
@@ -1135,7 +1117,7 @@ https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
 https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/lJkipAf.png" group-title="CULTURAL", C | History Channel
-https://cablered.iptvperu.tv:1936/cablered/history/playlist.m3u8
+https://streaming.onnethn.com/HISTORY_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://i.imgur.com/D0CWtiN.png" group-title="CULTURAL", C | History 2
 http://190.93.224.42/HISTORY-2/index.m3u8
@@ -1147,10 +1129,10 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://i.imgur.com/vqflNtQ.png" group-title="NOTICIAS", NT | France 24 Spanish
-https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/pCSZjza.png" group-title="NOTICIAS", NT | RT Spanish
-https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="942mvstr.co" tvg-logo="https://i.imgur.com/RVrsgUA.png" group-title="VARIADOS", V | Telemundo Internacional
 https://streaming.onnethn.com/TELEMUNDO/playlist.m3u8
@@ -1214,4 +1196,7 @@ http://200.115.120.1:8000/play/ca093/index.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/0FZi4fY.png" group-title="MÚSICA", MU | TOP Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/7vczPd6.png" group-title="¡EXCLUSIVOS!", MU | QUE Música TV
+https://app.viloud.tv/hls/channel/c213aa8281b83a14b0bde1e71dca91b0.m3u8
 
