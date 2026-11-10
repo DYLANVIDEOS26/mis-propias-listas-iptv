@@ -1,7 +1,0 @@
-#EXTM3U url-tvg="https://www.open-epg.com/generate/yhpXUCvrVk.xml.gz" x-tvg-url="https://www.open-epg.com/generate/yhpXUCvrVk.xml.gz"
-
-#EXTINF:-1 tvg-id="Bethel.pe" tvg-name="Bethel" tvg-logo="https://i.imgur.com/BKKnZWU.png" group-title="Canales DVR" catchup="default" catchup-days="1" catchup-hours="12" timeshift="12",Bethel
-https://alfa.betheltv.tv/srt/3_abr/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="RussiaToday.pe" tvg-name="RT en Español" tvg-logo="https://i.imgur.com/pCSZjza.png" group-title="Canales DVR" catchup="default" catchup-days="1" catchup-hours="12" timeshift="12",RT en Español
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
