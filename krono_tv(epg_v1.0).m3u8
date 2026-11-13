@@ -45,11 +45,11 @@ http://187.102.210.46/IPE/index.m3u8
 #EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://i.imgur.com/7PoJ6mE.png" group-title="PERÚ", (15) USMP TV Perú
 http://190.93.224.42/USMP/index.m3u8
 
-#EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://i.imgur.com/gKlUz5L.png" group-title="PERÚ", (16) Juntos TV Perú
-http://45.70.201.81:8000/play/a019/index.m3u8
-
-#EXTINF:-1 tvg-id="541mvstr.pe" tvg-logo="https://i.imgur.com/9wk5wrD.png" group-title="PERÚ", (17) TV Libertad Perú
+#EXTINF:-1 tvg-id="541mvstr.pe" tvg-logo="https://i.imgur.com/9wk5wrD.png" group-title="PERÚ", (16) TV Libertad Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://i.imgur.com/gKlUz5L.png" group-title="PERÚ", (17) Juntos TV Perú
+http://45.70.201.81:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="33mvstr.pe" tvg-logo="https://i.imgur.com/4CMDuvR.png" group-title="PERÚ", (18) Trivu Perú
 http://190.93.224.42/TRIVU-TV/index.m3u8
@@ -207,11 +207,11 @@ http://wispcinema.sytes.net:25461/obedchile/18112022/1477.m3u8
 #EXTINF:-1 tvg-id="CO | Caracol" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/caracol_televisi_n.png" group-title="COLOMBIA", CO | Caracol
 http://wispcinema.sytes.net:25461/obedchile/18112022/1476.m3u8
 
-#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-logo="https://i.imgur.com/87hqqUH.png" group-title="ECUADOR", EC | Ecuador TV
-https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
-
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-logo="https://i.imgur.com/zRpVs6Q.png" group-title="ECUADOR", EC | Ecuavisa
 http://45.224.97.181:9999/Ecuavisa/index.m3u8
+
+#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-logo="https://i.imgur.com/87hqqUH.png" group-title="ECUADOR", EC | Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
 #EXTINF:-1 tvg-id="EC | Gamavision" tvg-logo="https://i.imgur.com/pUc2coM.png" group-title="ECUADOR", EC | Gamavision
 http://181.78.211.244:8000/play/a0a2/index.m3u8
