@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz" x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
 
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.imgur.com/xbgEdK7.png" group-title="PERÚ", PE | Willax
 http://38.190.100.202:8000/play/a059/index.m3u8
@@ -537,23 +537,23 @@ https://streaming.onnethn.com/GOLDEN_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://i.imgur.com/F9Y2vIW.png" group-title="VIX (PREMIUM)", VIX | Golden Edge
 https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/wG4428b.png" group-title="VIX (PREMIUM)", VIX | Telehit
-http://200.115.120.1:8000/play/ca048/index.m3u8
-
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/fiv2Yi7.png" group-title="VIX (PREMIUM)", VIX | Telehit Música
-http://200.115.120.1:8000/play/ca093/index.m3u8
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://i.imgur.com/5sA66eS.png" group-title="VIX (PREMIUM)", VIX | Golden Plus
+http://38.7.197.119:4000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://i.imgur.com/q7cPWEH.png" group-title="VIX (PREMIUM)", VIX | Las Estrellas
 https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="https://i.imgur.com/OXYiy8s.png" group-title="VIX (PREMIUM)", VIX | Univision
-https://streaming.onnethn.com/UNIVISION/playlist.m3u8
-
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="https://i.imgur.com/zcchMJy.png" group-title="VIX (PREMIUM)", VIX | TL Novelas
 https://cablered.iptvperu.tv:1936/cablered/tlnovelas_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://i.imgur.com/5sA66eS.png" group-title="VIX (PREMIUM)", VIX | Golden Plus
-http://38.7.197.119:4000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="https://i.imgur.com/OXYiy8s.png" group-title="VIX (PREMIUM)", VIX | Univision
+https://streaming.onnethn.com/UNIVISION/playlist.m3u8
+
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/fiv2Yi7.png" group-title="VIX (PREMIUM)", VIX | Telehit Música
+http://200.115.120.1:8000/play/ca093/index.m3u8
+
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/wG4428b.png" group-title="VIX (PREMIUM)", VIX | Telehit
+http://200.115.120.1:8000/play/ca048/index.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/KpjPJnK.png" group-title="VIX (PREMIUM)", K | BitMe
 https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
@@ -1236,12 +1236,12 @@ http://wispcinema2.sytes.net:25461/obedchile/18112022/1475.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/pZdQV0z.png" group-title="DIRECTV (EXCLUSIVOS)", DTV | DSports+
 http://wispcinema2.sytes.net:25461/obedchile/18112022/7160.m3u8
 
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/yEbQJB0.png" group-title="MOVISTAR (SOLO PERÚ)", M | Canal N Perú
-http://45.186.254.75:8000/play/a09i/index.m3u8
-
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://i.imgur.com/zT9rqWc.png" group-title="MOVISTAR (SOLO PERÚ)", M | Movistar Deportes Perú
 http://45.186.254.75:8000/play/a0es/index.m3u8
 
 #EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://i.imgur.com/9mIME1J.png" group-title="MOVISTAR (SOLO PERÚ)", M | Movistar Plus Perú
 http://45.186.254.75:8000/play/a0et/index.m3u8
+
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/yEbQJB0.png" group-title="MOVISTAR (SOLO PERÚ)", M | Canal N Perú
+http://45.186.254.75:8000/play/a09i/index.m3u8
 
