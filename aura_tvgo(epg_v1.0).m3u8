@@ -51,11 +51,11 @@ https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://i.imgur.com/tQkYbqQ.png" group-title="PERÚ", PE | Juntos TV
 http://45.70.201.81:8000/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-id="42mvstr.pe" tvg-logo="https://i.imgur.com/9my4Gby.png" group-title="PERÚ", PE | Rumbo Minero
-https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
-
 #EXTINF:-1 tvg-id="33mvstr.pe" tvg-logo="https://i.imgur.com/zVn1jUm.png" group-title="PERÚ", PE | Trivu
 http://190.93.224.42/TRIVU-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="42mvstr.pe" tvg-logo="https://i.imgur.com/9my4Gby.png" group-title="PERÚ", PE | Rumbo Minero
+https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/TfzsdAW.png" group-title="PERÚ", PE | Justicia TV
 http://38.87.224.20:2220/play/a00i/index.m3u8
