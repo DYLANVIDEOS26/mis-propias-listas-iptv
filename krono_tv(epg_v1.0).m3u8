@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz" x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
 
 #EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/w/i/willax_hd_2.png" group-title="PERÚ", (1) Willax Perú
 http://190.93.224.42/WILLAX/index.m3u8
@@ -376,7 +376,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://i.imgur.com/zwahMoc.png" group-title="RTVE PLAY (PREMIUM)", RTVE | 24h
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV Accion" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvaccion_400x200_lg_0.png" group-title="FREE TV (FAST)", FreeTV Accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16881&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
@@ -990,7 +990,7 @@ https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 #EXTINF:-1 tvg-id="66b3af1c3a4ad200081c7d03" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG_1785345339690.png" group-title="PLUTO (FAST)", Z Nation
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DIRECTV (EXCLUSIVOS)", DTV | DSports Colombia
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DIRECTV (EXCLUSIVOS)", DTV | DSports
 http://wispcinema2.sytes.net:25461/obedchile/18112022/1474.m3u8
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/1bD3N9i.png" group-title="DIRECTV (EXCLUSIVOS)", DTV | DSports 2
