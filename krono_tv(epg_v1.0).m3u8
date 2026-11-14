@@ -228,6 +228,21 @@ http://177.234.218.66:8084/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://i.imgur.com/Zga4FmJ.png" group-title="ECUADOR", EC | Teleamazonas
 http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 
+#EXTINF:-1 tvg-id="BO | Unitel" tvg-logo="https://i.imgur.com/ExpVRZ4.png" group-title="BOLIVIA", BO | Unitel
+http://190.181.61.93:8000/play/1909/index.m3u8
+
+#EXTINF:-1 tvg-id="BO | Bolivision" tvg-logo="https://i.imgur.com/4USpDax.png" group-title="BOLIVIA", BO | Bolivision
+http://190.181.61.93:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="BO | BTV" tvg-logo="https://i.imgur.com/1ctMNQb.png" group-title="BOLIVIA", BO | BTV
+http://190.181.61.93:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="BO | Red Uno" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="BOLIVIA", BO | Red Uno
+http://190.181.61.93:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-id="BO | RTP" tvg-logo="https://i.imgur.com/BTtuJ4n.png" group-title="BOLIVIA", BO | RTP
+http://190.181.61.93:8000/play/a00n/index.m3u8
+
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/kE9tasP.png" group-title="DEPORTES PERÚ", DEP | Bicolor+ Premium Peru
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
 
