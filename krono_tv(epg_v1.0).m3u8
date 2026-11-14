@@ -10,7 +10,7 @@ https://cablered.iptvperu.tv:1936/cablered/latina_new/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/rpp_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4mvstr.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/m/am_rica_tv.png" group-title="PERÚ", (4) América TV Perú
-https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+http://190.93.224.42/AMERICA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/p/a/panamericana_hd.png" group-title="PERÚ", (5) Panamericana Perú
 http://190.93.224.42/PANAMERICANA/index.m3u8
@@ -231,10 +231,10 @@ http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/kE9tasP.png" group-title="DEPORTES PERÚ", DEP | Bicolor+ Premium Peru
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://i.imgur.com/1hFL24q.png" group-title="DEPORTES PERÚ", DEP | L1 Peru
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://i.imgur.com/1hFL24q.png" group-title="DEPORTES PERÚ", DEP | L1 Peru
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://i.imgur.com/Uxrr2qP.png" group-title="DEPORTES PERÚ", DEP | L1 Max Peru
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://i.imgur.com/Uxrr2qP.png" group-title="DEPORTES PERÚ", DEP | L1 Max Peru
 https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://i.imgur.com/QLrlCHi.png" group-title="DEPORTES PERÚ", DEP | ESPN Peru
@@ -378,20 +378,32 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://i.imgur.com/zwahMoc.png" group-title="RTVE PLAY (PREMIUM)", RTVE | 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="FreeTV Drama" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/r/drama.png" group-title="FREE TV (FAST)", FreeTV Drama
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
-
-#EXTINF:-1 tvg-id="FreeTV Acción" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/c/acci_n.png" group-title="FREE TV (FAST)", FreeTV Acción
+#EXTINF:-1 tvg-id="FreeTV Accion" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvaccion_400x200_lg_0.png" group-title="FREE TV (FAST)", FreeTV Accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16881&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 
-#EXTINF:-1 tvg-id="FreeTV Terror" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/e/terror.png" group-title="FREE TV (FAST)", FreeTV Terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16514&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:-1 tvg-id="FreeTV Banda" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvbanda_400x200_lg.png" group-title="FREE TV (FAST)", FreeTV Banda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16564&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 
-#EXTINF:-1 tvg-id="FreeTV Live" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/f/r/free_tv_live.png" group-title="FREE TV (FAST)", FreeTV Live
+#EXTINF:-1 tvg-id="FreeTV Clasico" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvclasico_400x200_lg_0.png" group-title="FREE TV (FAST)", FreeTV Clasico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16512&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="FreeTV Drama" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvdrama_400x200_lg.png" group-title="FREE TV (FAST)", FreeTV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvestelar_400x200_lg.png" group-title="FREE TV (FAST)", FreeTV Estelar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="FreeTV Familia" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvfamilia_400x200_lg_0.png" group-title="FREE TV (FAST)", FreeTV Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16561&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="FreeTV Live" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvlive_400x200_lg.png" group-title="FREE TV (FAST)", FreeTV Live
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16511&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 
-#EXTINF:-1 tvg-id="FreeTV Estelar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/s/estelar.png" group-title="FREE TV (FAST)", FreeTV Estelar
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+#EXTINF:-1 tvg-id="FreeTV Sureno" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvsureno_400x200_lg.png" group-title="FREE TV (FAST)", FreeTV Sureno
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16513&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-id="FreeTV Terror" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/anamorphic-logo/400x200/freetvterror_400x200_lg.png" group-title="FREE TV (FAST)", FreeTV Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16514&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 
 #EXTINF:-1 tvg-id="61a52615cbef2500072876e2" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="PLUTO (FAST)", Acapulco Shore Pluto TV
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
@@ -978,8 +990,8 @@ https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
 #EXTINF:-1 tvg-id="66b3af1c3a4ad200081c7d03" tvg-logo="https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG_1785345339690.png" group-title="PLUTO (FAST)", Z Nation
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 
-#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/IV3Coxv.png" group-title="DIRECTV (EXCLUSIVOS)", DTV | DSports
-http://201.240.104.137:8000/play/a0c8/index.m3u8
+#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="http://wispcinema2.sytes.net:25461/obedchile/18112022/1474.m3u8" group-title="DIRECTV (EXCLUSIVOS)", DTV | DSports Colombia
+http://wispcinema2.sytes.net:25461/obedchile/18112022/1474.m3u8
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/skQYFKo.png" group-title="DIRECTV (EXCLUSIVOS)", DTV | DSports 2
 http://201.240.104.137:8000/play/dtv2/index.m3u8
@@ -1069,7 +1081,7 @@ http://158.172.217.18:8000/play/a03a/index.m3u8
 https://streaming.onnethn.com/CARTOONITO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="330dtv.co" tvg-logo="https://i.imgur.com/MtEzKpA.png" group-title="KIDS", K | Discovery Kids
-https://streaming.onnethn.com/DISCOVERY_KIDS_HD/playlist.m3u8
+https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://i.imgur.com/JXlVYE0.png" group-title="KIDS", K | Disney Channel
 https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
