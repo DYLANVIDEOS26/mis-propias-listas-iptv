@@ -445,7 +445,7 @@ http://190.93.224.42/TNT-NOVELAS/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 #EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://i.imgur.com/vqflNtQ.png" group-title="NOTICIAS", NOT | France 24 en Español
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/pCSZjza.png" group-title="NOTICIAS", NOT | RT en Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
