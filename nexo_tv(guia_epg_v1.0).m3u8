@@ -375,7 +375,7 @@ http://45.186.254.75:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://i.imgur.com/cjyjH9i.png" group-title="CINE & SERIES", CINE | TNT
 https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://i.imgur.com/H4WoRAN.png" group-title="CINE & SERIES", SERIES | TNT Series
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://i.imgur.com/mHL9aK8.png" group-title="CINE & SERIES", SERIES | TNT Series
 https://streaming.onnethn.com/TNT_SERIES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="230dtv.cl" tvg-logo="https://i.imgur.com/xT6AxyF.png" group-title="CINE & SERIES", SERIES | AMC Series
@@ -389,6 +389,57 @@ https://streaming.onnethn.com/UNIVERSAL_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="https://i.imgur.com/9Pni9ZY.png" group-title="CINE & SERIES", SERIES | USA Network
 https://cablered.iptvperu.tv:1936/cablered/usa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="529" tvg-logo="https://i.imgur.com/nU0dGRJ.png" group-title="KIDS", KIDS | Cartoon Network
+http://158.172.217.18:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-id="528" tvg-logo="https://i.imgur.com/4rAj1Wj.png" group-title="KIDS", KIDS | Cartoonito
+https://streaming.onnethn.com/CARTOONITO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="330dtv.co" tvg-logo="https://i.imgur.com/aQoAV77.png" group-title="KIDS", KIDS | Discovery Kids
+https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", ,KIDS | Disney Channel
+https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://i.imgur.com/sZ71GF7.png" group-title="KIDS", KIDS | Disney Jr.
+https://streaming.onnethn.com/DISNEY_JR_HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS", KIDS | Nickelodeon
+http://38.87.224.20:2220/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-logo="https://i.imgur.com/ofvuKa6.png" group-title="KIDS", KIDS | Nick Jr.
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dreamworks.la" tvg-logo="https://i.imgur.com/YrsmN0r.png" group-title="KIDS", KIDS | Dreamworks
+https://cablered.iptvperu.tv:1936/cablered/dreamworks.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-logo="https://i.imgur.com/BpQBWNJ.png" group-title="KIDS", KIDS | Baby TV
+https://streaming.onnethn.com/BABY_TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="651" tvg-logo="https://i.imgur.com/yYQnBS8.png" group-title="KIDS", KIDS | Plim Plim
+https://cablered.iptvperu.tv:1936/cablered/plimplim.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png" group-title="KIDS", KIDS | El Reino Infantil
+https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/24jtSNy.png" group-title="KIDS", KIDS | Tooncast
+https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
+
+#EXTINF:-1 tvg-id="az-corazon.mx" tvg-logo="https://i.imgur.com/SMQtn2p.png" group-title="NOVELAS", NOV | Corazón
+http://190.108.90.142:8000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-id="892mvstr.cl" tvg-logo="https://i.imgur.com/yYsiGHE.png" group-title="NOVELAS", NOV | Kanal D Drama
+https://cablered.iptvperu.tv:1936/cablered/kanald_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-logo="https://i.imgur.com/drH1w9L.png" group-title="NOVELAS", NOV | Pasiones
+https://streaming.onnethn.com/PASIONES/playlist.m3u8
+
+#EXTINF:-1 tvg-id="977mvstr.co" tvg-logo="https://i.imgur.com/6qTxNx3.png" group-title="NOVELAS", NOV | RCN Novelas
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-logo="https://i.imgur.com/Pwp0P5j.png" group-title="NOVELAS", NOV | TNT Novelas
+https://cablered.iptvperu.tv:1936/cablered/tntnovelas_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="https://i.imgur.com/wBM7qjB.png" group-title="CULTURAL", CUL | Animal Planet
 https://streaming.onnethn.com/ANIMAL_PLANET_HD/playlist.m3u8
@@ -429,43 +480,16 @@ http://190.93.224.42/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="741dtv.cl" tvg-logo="https://i.imgur.com/4G2mhlo.png" group-title="CULTURAL", CUL | Sun Channel
 http://187.102.210.46/sunchannel/index.m3u8
 
-#EXTINF:-1 tvg-id="529" tvg-logo="https://i.imgur.com/nU0dGRJ.png" group-title="KIDS", KIDS | Cartoon Network
-http://158.172.217.18:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="https://i.imgur.com/QpccwYb.png" group-title="ESTILO DE VIDA", EDV | Discovery H&H
+https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="528" tvg-logo="https://i.imgur.com/4rAj1Wj.png" group-title="KIDS", KIDS | Cartoonito
-https://streaming.onnethn.com/CARTOONITO/playlist.m3u8
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/3c0lrk0.png" group-title="ESTILO DE VIDA", EDV | Food Network
+https://cablered.iptvperu.tv:1936/cablered/foodnetwork_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="330dtv.co" tvg-logo="https://i.imgur.com/aQoAV77.png" group-title="KIDS", KIDS | Discovery Kids
-https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
+#EXTINF:-1 tvg-id="1234dtv.cl" tvg-logo="https://i.imgur.com/EVDiBBV.png" group-title="ESTILO DE VIDA", EDV | HGTV
+https://cablered.iptvperu.tv:1936/cablered/HGTV_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", ,KIDS | Disney Channel
-https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
-
-#EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://i.imgur.com/sZ71GF7.png" group-title="KIDS", KIDS | Disney Jr.
-https://streaming.onnethn.com/DISNEY_JR_HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS", KIDS | Nickelodeon
-http://38.87.224.20:2220/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-id="309dtv.cl" tvg-logo="https://i.imgur.com/ofvuKa6.png" group-title="KIDS", KIDS | Nick Jr.
-https://streaming.onnethn.com/NICK_JR/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dreamworks.la" tvg-logo="https://i.imgur.com/YrsmN0r.png" group-title="KIDS", KIDS | Dreamworks
-https://cablered.iptvperu.tv:1936/cablered/dreamworks.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1317dtv.cl" tvg-logo="https://i.imgur.com/BpQBWNJ.png" group-title="KIDS", KIDS | Baby TV
-https://streaming.onnethn.com/BABY_TV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="651" tvg-logo="https://i.imgur.com/yYQnBS8.png" group-title="KIDS", KIDS | Plim Plim
-https://cablered.iptvperu.tv:1936/cablered/plimplim.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png" group-title="KIDS", KIDS | El Reino Infantil
-https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/24jtSNy.png" group-title="KIDS", KIDS | Tooncast
-https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
-
-#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://i.imgur.com/vMvXY6y.png" group-title="NOTICIAS", NOT | NTN24
+#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://i.imgur.com/nI3jaJd.png" group-title="NOTICIAS", NOT | NTN24
 http://181.78.211.244:8005/play/a0ap/index.m3u8
 
 #EXTINF:-1 tvg-id="telesur.ar" tvg-logo="https://i.imgur.com/leLnSKw.png" group-title="NOTICIAS", NOT | Telesur
@@ -495,20 +519,29 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="https://i.imgur.com/4Nr1qlr.png" group-title="NOTICIAS", NOT | CNN Chile
 http://181.78.88.113:9800/play/a0ct/index.m3u8
 
-#EXTINF:-1 tvg-id="az-corazon.mx" tvg-logo="https://i.imgur.com/SMQtn2p.png" group-title="NOVELAS", NOV | Corazón
-http://190.108.90.142:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="561" tvg-logo="https://i.imgur.com/lxYfFGA.png" group-title="VARIADOS", VAR | Adult Swim
+https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="892mvstr.cl" tvg-logo="https://i.imgur.com/yYsiGHE.png" group-title="NOVELAS", NOV | Kanal D Drama
-https://cablered.iptvperu.tv:1936/cablered/kanald_new/playlist.m3u8
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://i.imgur.com/0BLPesE.png" group-title="VARIADOS", VAR | Comedy Central
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 
-#EXTINF:-1 tvg-id="225dtv.cl" tvg-logo="https://i.imgur.com/drH1w9L.png" group-title="NOVELAS", NOV | Pasiones
-https://streaming.onnethn.com/PASIONES/playlist.m3u8
+#EXTINF:-1 tvg-id="222dtv.cl" tvg-logo="https://i.imgur.com/Qg1UdpP.png" group-title="VARIADOS", VAR | E! Entertainment
+http://181.66.249.246:8000/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-id="977mvstr.co" tvg-logo="https://i.imgur.com/6qTxNx3.png" group-title="NOVELAS", NOV | RCN Novelas
-https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:-1 tvg-id="232dtv.cl" tvg-logo="https://i.imgur.com/0IC4IOa.png" group-title="VARIADOS", VAR | El Gourmet
+http://190.61.101.11:7050/play/a09s/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="864mvstr.co" tvg-logo="https://i.imgur.com/Pwp0P5j.png" group-title="NOVELAS", NOV | TNT Novelas
-https://cablered.iptvperu.tv:1936/cablered/tntnovelas_new/playlist.m3u8
+#EXTINF:-1 tvg-id="942mvstr.co" tvg-logo="https://i.imgur.com/oMG3odj.png" group-title="VARIADOS", VAR | Telemundo Internacional
+http://190.93.224.42/TELEMUNDO/index.m3u8
+
+#EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://i.imgur.com/eRPVeOF.png" group-title="INTERNACIONALES", INT | Caracol Internacional
+http://167.249.23.102:8000/play/a0ax/index.m3u8
+
+#EXTINF:-1 tvg-id="784dtv.cl" tvg-logo="https://i.imgur.com/Q8rPoMg.png" group-title="INTERNACIONALES", INT | El Trece Internacional
+http://38.224.48.4:8000/play/a0mf/index.m3u8
+
+#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/mOXgvgQ.png" group-title="INTERNACIONALES", INT | TV Chile
+http://45.239.31.254:8000/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="bethel.la" tvg-logo="https://i.imgur.com/6Emseyl.png" group-title="RELIGIÓN", REL | Bethel
 https://cablered.iptvperu.tv:1936/cablered/bethel_new/playlist.m3u8
@@ -533,39 +566,6 @@ http://38.87.224.20:2220/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/7vczPd6.png" group-title="MÚSICA", MU | QUE Música TV
 https://app.viloud.tv/hls/channel/c213aa8281b83a14b0bde1e71dca91b0.m3u8
-
-#EXTINF:-1 tvg-id="222dtv.cl" tvg-logo="https://i.imgur.com/CLvC2Zn.png" group-title="VARIADOS", VAR | E! Entertainment
-http://181.66.249.246:8000/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-id="232dtv.cl" tvg-logo="https://i.imgur.com/ek9PFxI.png" group-title="VARIADOS", VAR | El Gourmet
-http://190.61.101.11:7050/play/a09s/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="942mvstr.co" tvg-logo="https://i.imgur.com/RVrsgUA.png" group-title="VARIADOS", VAR | Telemundo Internacional
-http://190.93.224.42/TELEMUNDO/index.m3u8
-
-#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="https://i.imgur.com/QpccwYb.png" group-title="ESTILO DE VIDA", EDV | Discovery H&H
-https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
-
-#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/3c0lrk0.png" group-title="ESTILO DE VIDA", EDV | Food Network
-https://cablered.iptvperu.tv:1936/cablered/foodnetwork_new/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1234dtv.cl" tvg-logo="https://i.imgur.com/EVDiBBV.png" group-title="ESTILO DE VIDA", EDV | HGTV
-https://cablered.iptvperu.tv:1936/cablered/HGTV_new/playlist.m3u8
-
-#EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://i.imgur.com/eRPVeOF.png" group-title="INTERNACIONALES", INT | Caracol Internacional
-http://167.249.23.102:8000/play/a0ax/index.m3u8
-
-#EXTINF:-1 tvg-id="784dtv.cl" tvg-logo="https://i.imgur.com/Q8rPoMg.png" group-title="INTERNACIONALES", INT | El Trece Internacional
-http://38.224.48.4:8000/play/a0mf/index.m3u8
-
-#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/mOXgvgQ.png" group-title="INTERNACIONALES", INT | TV Chile
-http://45.239.31.254:8000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-id="561" tvg-logo="https://i.imgur.com/lxYfFGA.png" group-title="COMEDIA", C | Adult Swim
-https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
-
-#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://i.imgur.com/0BLPesE.png" group-title="COMEDIA", C | Comedy Central
-https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://i.imgur.com/q7cPWEH.png" group-title="VIX (PREMIUM)", VIX | Las Estrellas
 https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
