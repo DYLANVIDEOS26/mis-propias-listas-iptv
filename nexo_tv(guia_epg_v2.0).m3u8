@@ -183,7 +183,7 @@ http://tvdirect.lat:8080/live/JRRAFAEL/MAGUIEOP/13088.m3u8
 #EXTINF:-1 tvg-id="TVCiudad.uy" tvg-logo="https://i.imgur.com/xmxuCPW.png" group-title="URUGUAY", URU | TV Ciudad
 http://tvdirect.lat:8080/live/JRRAFAEL/MAGUIEOP/13095.m3u8
 
-#EXTINF:-1 tvg-id="Ecuavisa.es" tvg-logo="https://i.imgur.com/zRpVs6Q.png" group-title="ECUADOR", EC | Ecuavisa
+#EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="https://i.imgur.com/zRpVs6Q.png" group-title="ECUADOR", EC | Ecuavisa
 http://45.224.97.181:9999/Ecuavisa/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Ecuador TV.ec" tvg-logo="https://i.imgur.com/87hqqUH.png" group-title="ECUADOR", EC | Ecuador TV
