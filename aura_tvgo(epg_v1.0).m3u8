@@ -204,25 +204,25 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 #EXTINF:-1 tvg-id="unicanal.py" tvg-logo="https://i.imgur.com/c2Vf5lP.png" group-title="PARAGUAY", PY | Unicanal
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 
-#EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-logo="https://i.imgur.com/zRpVs6Q.png" group-title="ECUADOR", EC | Ecuavisa
+#EXTINF:-1 tvg-id="182dtv.ec" tvg-logo="https://i.imgur.com/zRpVs6Q.png" group-title="ECUADOR", EC | Ecuavisa
 http://45.224.97.181:9999/Ecuavisa/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | Ecuador TV" tvg-logo="https://i.imgur.com/87hqqUH.png" group-title="ECUADOR", EC | Ecuador TV
+#EXTINF:-1 tvg-id="187dtv.ec" tvg-logo="https://i.imgur.com/87hqqUH.png" group-title="ECUADOR", EC | Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
-#EXTINF:-1 tvg-id="EC | Gamavision" tvg-logo="https://i.imgur.com/pUc2coM.png" group-title="ECUADOR", EC | Gamavision
+#EXTINF:-1 tvg-id="183dtv.ec" tvg-logo="https://i.imgur.com/pUc2coM.png" group-title="ECUADOR", EC | Gamavision
 http://181.78.211.244:8000/play/a0a2/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | Oromar" tvg-logo="https://i.imgur.com/ygFJ7pc.png" group-title="ECUADOR", EC | Oromar
+#EXTINF:-1 tvg-id="lch3095.ecu" tvg-logo="https://i.imgur.com/ygFJ7pc.png" group-title="ECUADOR", EC | Oromar
 http://45.224.97.181:9999/Oromar/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | RTS" tvg-logo="https://i.imgur.com/NQapzyy.png" group-title="ECUADOR", EC | RTS
+#EXTINF:-1 tvg-id="185dtv.ec" tvg-logo="https://i.imgur.com/NQapzyy.png" group-title="ECUADOR", EC | RTS
 http://157.100.248.242:8080/RTSHD/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | TC Television" tvg-logo="https://i.imgur.com/bhlskxP.png" group-title="ECUADOR", EC | TC Television
+#EXTINF:-1 tvg-id="181dtv.ec" tvg-logo="https://i.imgur.com/bhlskxP.png" group-title="ECUADOR", EC | TC Television
 http://177.234.218.66:8084/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-id="EC | Teleamazonas" tvg-logo="https://i.imgur.com/Zga4FmJ.png" group-title="ECUADOR", EC | Teleamazonas
+#EXTINF:-1 tvg-id="180dtv.ec" tvg-logo="https://i.imgur.com/Zga4FmJ.png" group-title="ECUADOR", EC | Teleamazonas
 http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
 
 #EXTINF:-1 tvg-id="BO | Unitel" tvg-logo="https://i.imgur.com/ExpVRZ4.png" group-title="BOLIVIA", BO | Unitel
@@ -383,6 +383,9 @@ https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://i.imgur.com/1HZuNJ6.png" group-title="CINE & SERIES", SERIES | Universal TV
 https://streaming.onnethn.com/UNIVERSAL_HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="https://i.imgur.com/BEIcwip.png" group-title="CINE & SERIES", SERIES | USA Network
+https://cablered.iptvperu.tv:1936/cablered/usa.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="https://i.imgur.com/aIKvTRb.png" group-title="CULTURAL", CUL | Animal Planet
 https://streaming.onnethn.com/ANIMAL_PLANET_HD/playlist.m3u8
@@ -648,17 +651,17 @@ http://38.190.100.202:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="U+ | Universal Reality" tvg-logo="https://i.imgur.com/0iFaYx9.png" group-title="UNIVERSAL+ (PREMIUM)", U+ | Universal Reality
 http://38.190.100.202:8000/play/a04r/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/cRLspad.png" group-title="CLARO (EXCLUSIVOS)", CLARO | Canal Claro
-http://45.228.234.9:8000/play/a0fv/index.m3u8
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/AXXii4T.png" group-title="CLARO (EXCLUSIVOS)", CLARO | Claro Sports
+http://45.228.234.9:8000/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/mgByVBp.png" group-title="CLARO (EXCLUSIVOS)", CLARO | Claro Cinema
 http://45.228.234.9:8000/play/a0hl/index.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/AXXii4T.png" group-title="CLARO (EXCLUSIVOS)", CLARO | Claro Sports
-http://45.228.234.9:8000/play/a06i/index.m3u8
-
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/3UDlRpE.png" group-title="CLARO (EXCLUSIVOS)", CLARO | Sin Límites
 http://45.228.234.9:8000/play/a0jt/index.m3u8
+
+#EXTINF:-1 tvg-id="CLARO | Canal Claro" tvg-logo="https://i.imgur.com/cRLspad.png" group-title="CLARO (EXCLUSIVOS)", CLARO | Canal Claro
+http://45.228.234.9:8000/play/a0fv/index.m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DIRECTV (EXCLUSIVOS)", DTV | DSports
 http://wispcinema2.sytes.net:25461/obedchile/18112022/1474.m3u8
