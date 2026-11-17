@@ -4,10 +4,10 @@
 http://190.93.224.42/WILLAX/index.m3u8
 
 #EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/PBLumj8.png" group-title="PERÚ", (002) Latina Perú
-https://redirector.dps.live/hls/latina/playlist.m3u8
+http://190.93.224.42/LATINA/index.m3u8
 
 #EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/SDhlh83.png" group-title="PERÚ", (003) RPP TV Perú
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
+http://190.93.224.42/RPP/index.m3u8
 
 #EXTINF:-1 tvg-id="4mvstr.pe" tvg-logo="https://i.imgur.com/0qEWYWQ.png" group-title="PERÚ", (004) América TV Perú
 http://190.93.224.42/AMERICA-TV/index.m3u8
@@ -16,16 +16,16 @@ http://190.93.224.42/AMERICA-TV/index.m3u8
 http://190.93.224.42/PANAMERICANA/index.m3u8
 
 #EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo_-exitosa_-1.png" group-title="PERÚ", (006) Exitosa TV Perü
-https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+http://190.93.224.42/EXITOSA/index.m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://i.imgur.com/dSRl0yF.png" group-title="PERÚ", (007) TV Perú
 http://190.93.224.42/TV-PERU/index.m3u8
 
 #EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/nSnspv8.png" group-title="PERÚ", (008) ATV+ Perú
-https://ddycmnicl95kp.cloudfront.net/live/32nynqn38go4/master.m3u8
+http://190.93.224.42/ATV-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://i.imgur.com/uaXIown.png" group-title="PERÚ", (009) ATV Perú
-https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
+http://190.93.224.42/ATV/index.m3u8
 
 #EXTINF:-1 tvg-id="656" tvg-logo="https://i.imgur.com/L7LTo5w.png" group-title="PERÚ", (010) PBO Perú
 http://190.93.224.42/PBO/index.m3u8
@@ -34,10 +34,10 @@ http://190.93.224.42/PBO/index.m3u8
 http://38.87.224.20:2220/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://i.imgur.com/E7kE1w3.png" group-title="PERÚ", (012) La Tele Perú
-https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
+http://190.93.224.42/LA-TELE/index.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://i.imgur.com/MJmGtGN.png" group-title="PERÚ", (013) Global Perú
-https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+http://190.93.224.42/GLOBAL/index.m3u8
 
 #EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://i.imgur.com/YWt5g54.png" group-title="PERÚ", (014) USMP TV Perú
 http://190.93.224.42/USMP/index.m3u8
@@ -207,14 +207,14 @@ http://chile.latamgo.xyz:80/play/oZdUuY039RXtjGu1pqIk0_hgwpgIOyD8JyxsLB2ti1fe7Lm
 #EXTINF:-1 tvg-id="191dtv.uy" tvg-logo="https://i.imgur.com/hx7jUHp.png" group-title="URUGUAY", URU | Canal 5
 http://chile.latamgo.xyz:80/play/oZdUuY039RXtjGu1pqIk0_hgwpgIOyD8JyxsLB2ti1dJVEWMPZFSvuHPCgr9Lmao/m3u8
 
-#EXTINF:-1 tvg-id="192dtv.uy" tvg-logo="https://i.imgur.com/d4vBw7z.png" group-title="URUGUAY", URU | Teledoce
-http://chile.latamgo.xyz:80/play/oZdUuY039RXtjGu1pqIk0_hgwpgIOyD8JyxsLB2ti1e1rZUBYjzjvqXFuPlrS0p8/m3u8
-
 #EXTINF:-1 tvg-id="193dtv.uy" tvg-logo="https://i.imgur.com/qtLlcHf.png" group-title="URUGUAY", URU | Canal 10
-http://chile.latamgo.xyz:80/play/oZdUuY039RXtjGu1pqIk0_hgwpgIOyD8JyxsLB2ti1fT6KNVRQhFn38Hn8SBWQAy/m3u8
+http://tvdirect.lat:8080/live/JRRAFAEL/MAGUIEOP/13087.m3u8
+
+#EXTINF:-1 tvg-id="192dtv.uy" tvg-logo="https://i.imgur.com/d4vBw7z.png" group-title="URUGUAY", URU | Teledoce
+http://tvdirect.lat:8080/live/JRRAFAEL/MAGUIEOP/13088.m3u8
 
 #EXTINF:-1 tvg-id="194dtv.uy" tvg-logo="https://i.imgur.com/xmxuCPW.png" group-title="URUGUAY", URU | TV Ciudad
-http://chile.latamgo.xyz:80/play/oZdUuY039RXtjGu1pqIk0_hgwpgIOyD8JyxsLB2ti1fKEoo3QIigv3GQOx5Uju2F/m3u8
+http://tvdirect.lat:8080/live/JRRAFAEL/MAGUIEOP/13095.m3u8
 
 #EXTINF:-1 tvg-id="EC | Ecuavisa" tvg-logo="https://i.imgur.com/zRpVs6Q.png" group-title="ECUADOR", EC | Ecuavisa
 http://45.224.97.181:9999/Ecuavisa/index.m3u8
