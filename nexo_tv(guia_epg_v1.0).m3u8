@@ -267,20 +267,20 @@ http://138.59.227.20:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://i.imgur.com/YKZmhFf.png" group-title="DEPORTES", ARG | ESPN Premium
 http://138.59.227.20:8000/play/a086/index.m3u8
 
-#EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="DEPORTES", ARG | Fox Sports
+#EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://images.open-epg.com/x972.png" group-title="DEPORTES", ARG | Fox Sports
 http://138.59.227.20:8000/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/606.png" group-title="DEPORTES", ARG | Fox Sports 2
+#EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="https://images.open-epg.com/16782312.png" group-title="DEPORTES", ARG | Fox Sports 2
 http://138.59.227.20:8000/play/a09b/index.m3u8
 
-#EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/607.png" group-title="DEPORTES", ARG | Fox Sports 3
+#EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="https://images.open-epg.com/16782313.png" group-title="DEPORTES", ARG | Fox Sports 3
 http://138.59.227.20:8000/play/a06y/index.m3u8
 
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://i.imgur.com/PHrU9jA.png" group-title="DEPORTES", ARG | TNT Sports
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES", ARG | TyC Sports
-http://138.59.227.20:8000/play/a06x/index.m3u8
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://i.imgur.com/M2687RA.png" group-title="DEPORTES", CL | ESPN Premium
 http://181.78.88.113:9800/play/a0c2/index.m3u8
@@ -297,7 +297,7 @@ http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-id="633dtv.co" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="DEPORTES", CO | Win+ Fútbol
 http://wispcinema.sytes.net:25461/obedchile/18112022/1472.m3u8
 
-#EXTINF:-1 tvg-id="628dtv.cl" tvg-logo="https://i.imgur.com/n5qkpY7.png" group-title="DEPORTES", INT | Golf Channel
+#EXTINF:-1 tvg-id="628dtv.cl" tvg-logo="https://i.imgur.com/QlCpUjz.png" group-title="DEPORTES", INT | Golf Channel
 http://45.185.163.75:8000/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-id="211mvstr.ar" tvg-logo="https://i.imgur.com/odVx6Qk.png" group-title="DEPORTES", INT | PX Sports
@@ -330,17 +330,17 @@ https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
 #EXTINF:-1 tvg-id="655" tvg-logo="https://i.imgur.com/yml1rj6.png" group-title="DEPORTES", LAT | ESPN 7
 https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/C3t2Me2.png" group-title="DEPORTES", PE | Bicolor+
-https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/ZSJ1Pr5.png" group-title="DEPORTES", PE | Bicolor+ Premium
-https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
-
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://i.imgur.com/1hFL24q.png" group-title="DEPORTES", PE | L1
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://i.imgur.com/Uxrr2qP.png" group-title="DEPORTES", PE | L1 Max
 https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/C3t2Me2.png" group-title="DEPORTES", PE | Bicolor+
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/ZSJ1Pr5.png" group-title="DEPORTES", PE | Bicolor+ Premium
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/gauUces.png" group-title="DEPORTES", EC | ECDF
 http://45.226.205.96:48000/play/a08y/index.m3u8
@@ -408,9 +408,6 @@ https://streaming.onnethn.com/UNIVERSAL_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="https://i.imgur.com/9Pni9ZY.png" group-title="CINE & SERIES", SERIES | USA Network
 https://cablered.iptvperu.tv:1936/cablered/usa.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1317dtv.cl" tvg-logo="https://i.imgur.com/BpQBWNJ.png" group-title="KIDS", KIDS | Baby TV
-https://streaming.onnethn.com/BABY_TV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="529" tvg-logo="https://i.imgur.com/nU0dGRJ.png" group-title="KIDS", KIDS | Cartoon Network
 http://158.172.217.18:8000/play/a03a/index.m3u8
 
@@ -420,7 +417,10 @@ https://streaming.onnethn.com/CARTOONITO/playlist.m3u8
 #EXTINF:-1 tvg-id="330dtv.co" tvg-logo="https://i.imgur.com/aQoAV77.png" group-title="KIDS", KIDS | Discovery Kids
 https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", ,KIDS | Disney Channel
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-logo="https://i.imgur.com/BpQBWNJ.png" group-title="KIDS", KIDS | Baby TV
+https://streaming.onnethn.com/BABY_TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", KIDS | Disney Channel
 https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://i.imgur.com/sZ71GF7.png" group-title="KIDS", KIDS | Disney Jr.
@@ -484,7 +484,7 @@ https://streaming.onnethn.com/DISCOVERY_TURBO/playlist.m3u8
 http://38.190.100.202:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="742dtv.cl" tvg-logo="https://i.imgur.com/7ZpxFdG.png" group-title="CULTURAL", CUL | History Channel
-https://cablered.iptvperu.tv:1936/cablered/history/playlist.m3u8
+http://190.93.224.42/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="742dtv.co" tvg-logo="https://i.imgur.com/Za0V30f.png" group-title="CULTURAL", CUL | History 2
 http://190.93.224.42/HISTORY-2/index.m3u8
@@ -494,9 +494,6 @@ https://bantel-cdn1.iptvperu.tv:1936/ZyphraCast/love-nature/chunks.m3u8
 
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://i.imgur.com/kjkBhvk.png" group-title="CULTURAL", CUL | National Geographic
 http://190.93.224.42/NAT-GEO/index.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="CULTURAL", CUL | Smithsonian Channel
-https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 
 #EXTINF:-1 tvg-id="741dtv.cl" tvg-logo="https://i.imgur.com/4G2mhlo.png" group-title="CULTURAL", CUL | Sun Channel
 http://187.102.210.46/sunchannel/index.m3u8
