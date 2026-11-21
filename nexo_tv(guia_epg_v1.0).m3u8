@@ -10,7 +10,7 @@ http://190.93.224.42/LATINA/index.m3u8
 http://190.93.224.42/RPP/index.m3u8
 
 #EXTINF:-1 tvg-id="4mvstr.pe" tvg-logo="https://i.imgur.com/0qEWYWQ.png" group-title="PERÚ", (004) América TV Perú
-http://190.93.224.42/IPE/index.m3u8
+http://190.93.224.42/AMERICA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.imgur.com/BmeHpWf.png" group-title="PERÚ", (005) Panamericana Perú
 http://190.93.224.42/PANAMERICANA/index.m3u8
@@ -576,14 +576,14 @@ https://cablered.iptvperu.tv:1936/cablered/canalluz/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv.cl" tvg-logo="https://i.imgur.com/UAkamTw.png" group-title="MÚSICA", MU | MTV
 https://streaming.onnethn.com/MTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1269.png" group-title="MÚSICA", MU | QMEMI
+http://138.59.227.20:8000/play/a06s/index.m3u8
+
 #EXTINF:-1 tvg-id="272dtv.cl" tvg-logo="https://i.imgur.com/Xz3ZHdj.png" group-title="MÚSICA", MU | HTV
 https://streaming.onnethn.com/HTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/co3FWx4.png" group-title="MÚSICA", MU | TOP Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
-
-#EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1269.png" group-title="MÚSICA", MU | QMEMI
-http://138.59.227.20:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/7vczPd6.png" group-title="MÚSICA", MU | QUE Música TV
 https://app.viloud.tv/hls/channel/c213aa8281b83a14b0bde1e71dca91b0.m3u8
