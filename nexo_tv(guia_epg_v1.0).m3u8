@@ -618,11 +618,14 @@ http://38.190.100.202:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/URuaRAx.png" group-title="RTVE PLAY (PREMIUM)", RTVE | TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
-#EXTINF:-1 tvg-id="startve.es" tvg-logo="https://i.imgur.com/QMQNovE.png" group-title="RTVE PLAY (PREMIUM)", RTVE | Star
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="clan.es" tvg-logo="https://i.imgur.com/YgrZhRw.png" group-title="RTVE PLAY (PREMIUM)", RTVE | Clan
+http://38.224.231.176:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://i.imgur.com/iryNE2f.png" group-title="RTVE PLAY (PREMIUM)", RTVE | 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8?idasset=5466990
+
+#EXTINF:-1 tvg-id="startve.es" tvg-logo="https://i.imgur.com/QMQNovE.png" group-title="RTVE PLAY (PREMIUM)", RTVE | Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://i.imgur.com/q7cPWEH.png" group-title="VIX (PREMIUM)", VIX | Las Estrellas
 https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
@@ -678,7 +681,7 @@ http://38.190.100.202:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="575dtv.cl" tvg-logo="https://i.imgur.com/0iFaYx9.png" group-title="UNIVERSAL+ (PREMIUM)", U+ | Universal Reality
 http://38.190.100.202:8000/play/a04r/index.m3u8
 
-#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DSPORTS (PREMIUM)", PE | DSports
+#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DSPORTS (PREMIUM)", DTV | DSports
 http://201.240.104.137:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/1bD3N9i.png" group-title="DSPORTS (PREMIUM)", DTV | DSports 2
