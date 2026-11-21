@@ -102,43 +102,43 @@ http://181.78.88.113:9800/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://i.imgur.com/S0eB6q2.png" group-title="CHILE", CL | Zona Latina
 http://45.170.130.224:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://i.imgur.com/hUHOIco.png" group-title="ARGENTINA", ARG | A24
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://i.imgur.com/hUHOIco.png" group-title="ARGENTINA", AR | A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
-#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://i.imgur.com/UsEdkaO.png" group-title="ARGENTINA", ARG | America TV
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://i.imgur.com/UsEdkaO.png" group-title="ARGENTINA", AR | America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://i.imgur.com/02jLnZQ.png" group-title="ARGENTINA", ARG | C5N
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://i.imgur.com/02jLnZQ.png" group-title="ARGENTINA", AR | C5N
 http://138.59.227.20:8000/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/720.png" group-title="ARGENTINA", ARG | Canal 26
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/720.png" group-title="ARGENTINA", AR | Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://i.imgur.com/0jJMxg6.png" group-title="ARGENTINA", ARG | Canal Siete
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://i.imgur.com/0jJMxg6.png" group-title="ARGENTINA", AR | Canal Siete
 http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090558&extension=m3u8
 
-#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://i.imgur.com/KmRQYDG.png" group-title="ARGENTINA", ARG | CineAR
+#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://i.imgur.com/KmRQYDG.png" group-title="ARGENTINA", AR | CineAR
 http://138.59.227.20:8000/play/a069/index.m3u8
 
-#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="ARGENTINA", ARG | Crónica
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="ARGENTINA", AR | Crónica
 http://138.59.227.20:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://i.imgur.com/B01Sg94.png" group-title="ARGENTINA", ARG | El Nueve
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://i.imgur.com/B01Sg94.png" group-title="ARGENTINA", AR | El Nueve
 http://138.59.227.20:8000/play/a08k/index.m3u8
 
-#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://i.imgur.com/hPBqDVF.png" group-title="ARGENTINA", ARG | El Trece
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://i.imgur.com/hPBqDVF.png" group-title="ARGENTINA", AR | El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="ARGENTINA", ARG | NET TV
+#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://i.imgur.com/RJa0cNq.png" group-title="ARGENTINA", AR | NET TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="https://i.imgur.com/GfK0yYZ.png" group-title="ARGENTINA", ARG | Paka Paka
+#EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="https://i.imgur.com/GfK0yYZ.png" group-title="ARGENTINA", AR | Paka Paka
 http://138.59.227.20:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1269.png" group-title="ARGENTINA", ARG | QMEMI
+#EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1269.png" group-title="ARGENTINA", AR | QMEMI
 http://138.59.227.20:8000/play/a06s/index.m3u8
 
-#EXTINF:-1 tvg-id="ARG | Telefe" tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", ARG | Telefe
+#EXTINF:-1 tvg-id="AR | Telefe" tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", AR | Telefe
 http://45.173.231.22:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="abc-tv.py" tvg-logo="https://i.imgur.com/c7zFfFk.png" group-title="PARAGUAY", PY | ABC TV
@@ -255,34 +255,34 @@ http://186.33.57.100:8000/play/a1vm/index.m3u8
 #EXTINF:-1 tvg-id="BO | RTP" tvg-logo="https://i.imgur.com/BTtuJ4n.png" group-title="BOLIVIA", BO | RTP
 http://186.33.57.100:8000/play/a2sn/index.m3u8
 
-#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://i.imgur.com/qXJt9em.png" group-title="DEPORTES", ARG | ESPN
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="https://i.imgur.com/qXJt9em.png" group-title="DEPORTES", AR | ESPN
 http://138.59.227.20:8000/play/a099/index.m3u8
 
-#EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://i.imgur.com/36Lna7v.png" group-title="DEPORTES", ARG | ESPN 2
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://i.imgur.com/36Lna7v.png" group-title="DEPORTES", AR | ESPN 2
 http://138.59.227.20:8000/play/a098/index.m3u8
 
-#EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://i.imgur.com/Td6dqu4.png" group-title="DEPORTES", ARG | ESPN 3
+#EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="https://i.imgur.com/Td6dqu4.png" group-title="DEPORTES", AR | ESPN 3
 http://138.59.227.20:8000/play/a09a/index.m3u8
 
-#EXTINF:-1 tvg-id="203mvstr.ar" tvg-logo="https://i.imgur.com/sLbKYre.png" group-title="DEPORTES", ARG | ESPN 4
+#EXTINF:-1 tvg-id="203mvstr.ar" tvg-logo="https://i.imgur.com/sLbKYre.png" group-title="DEPORTES", AR | ESPN 4
 http://138.59.227.20:8000/play/a084/index.m3u8
 
-#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://i.imgur.com/YKZmhFf.png" group-title="DEPORTES", ARG | ESPN Premium
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://i.imgur.com/YKZmhFf.png" group-title="DEPORTES", AR | ESPN Premium
 http://138.59.227.20:8000/play/a086/index.m3u8
 
-#EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://images.open-epg.com/x972.png" group-title="DEPORTES", ARG | Fox Sports
+#EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://images.open-epg.com/x972.png" group-title="DEPORTES", AR | Fox Sports
 http://138.59.227.20:8000/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="https://images.open-epg.com/16782312.png" group-title="DEPORTES", ARG | Fox Sports 2
+#EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="https://images.open-epg.com/16782312.png" group-title="DEPORTES", AR | Fox Sports 2
 http://138.59.227.20:8000/play/a09b/index.m3u8
 
-#EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="https://images.open-epg.com/16782313.png" group-title="DEPORTES", ARG | Fox Sports 3
+#EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="https://images.open-epg.com/16782313.png" group-title="DEPORTES", AR | Fox Sports 3
 http://138.59.227.20:8000/play/a06y/index.m3u8
 
-#EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://i.imgur.com/PHrU9jA.png" group-title="DEPORTES", ARG | TNT Sports
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://i.imgur.com/PHrU9jA.png" group-title="DEPORTES", AR | TNT Sports
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES", ARG | TyC Sports
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/Gzj0a5b.png" group-title="DEPORTES", AR | TyC Sports
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://i.imgur.com/M2687RA.png" group-title="DEPORTES", CL | ESPN Premium
