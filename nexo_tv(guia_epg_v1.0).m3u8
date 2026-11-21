@@ -54,53 +54,26 @@ http://45.70.201.81:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="33mvstr.pe" tvg-logo="https://i.imgur.com/zVn1jUm.png" group-title="PERÚ", (018) Trivu Perú
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
 
-#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/TfzsdAW.png" group-title="PERÚ", (019) Justicia TV Perú
-http://190.93.224.42/JUSTICIA-TV/index.m3u8
-
-#EXTINF:-1 tvg-id="42mvstr.pe" tvg-logo="https://i.imgur.com/9my4Gby.png" group-title="PERÚ", (020) Rumbo Minero Perú
+#EXTINF:-1 tvg-id="42mvstr.pe" tvg-logo="https://i.imgur.com/9my4Gby.png" group-title="PERÚ", (019) Rumbo Minero Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/b4KRNjo.png" group-title="PERÚ", (021) La Tremenda Perú
+#EXTINF:-1 tvg-id="8575mvstr.pe" tvg-logo="https://i.imgur.com/yVLpSPN.png" group-title="PERÚ", (020) Sol TV Perú
+https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://i.imgur.com/TfzsdAW.png" group-title="PERÚ", (021) Justicia TV Perú
+http://190.93.224.42/JUSTICIA-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="550mvstr.pe" tvg-logo="http://new.oaktvpro.club:2095/images/952b24ce8b7cd31cbb4fb38d8efbd182.png" group-title="PERÚ", (022) Congreso TV
+http://tvdirect.pro:8080/live/tupadre10/Chrisxd10/269047.m3u8
+
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/b4KRNjo.png" group-title="PERÚ", (023) La Tremenda Perú
 https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/kV63sRX.png" group-title="PERÚ", (022) Karibeña TV Perú
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/kV63sRX.png" group-title="PERÚ", (024) Karibeña TV Perú
 https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/wgjcoAf.png" group-title="PERÚ", (023) Ovación Perú
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/wgjcoAf.png" group-title="PERÚ", (025) Ovación Perú
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://i.imgur.com/viJRTwI.png" group-title="CHILE", CL | Mega
-http://181.78.88.113:9800/play/a066/index.m3u8
-
-#EXTINF:-1 tvg-id="584" tvg-logo="https://i.imgur.com/YznOgYN.png" group-title="CHILE", CL | Mega 2
-http://181.78.88.113:9800/play/a0ai/index.m3u8
-
-#EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/canal-13.png" group-title="CHILE", CL | Canal 13
-http://181.78.88.113:9800/play/a067/index.m3u8
-
-#EXTINF:-1 tvg-id="549" tvg-logo="https://i.imgur.com/GXqnpfc.png" group-title="CHILE", CL | T13 En Vivo
-http://181.78.88.113:9800/play/a0aj/index.m3u8
-
-#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tvn.png" group-title="CHILE", CL | TVN
-http://181.78.88.113:9800/play/a09f/index.m3u8
-
-#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://i.imgur.com/3cSAXUb.png" group-title="CHILE", CL | 24 Horas
-http://181.78.88.113:9800/play/a09o/index.m3u8
-
-#EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/ntv.png" group-title="CHILE", CL | NTV
-http://181.78.88.113:9800/play/a0ak/index.m3u8
-
-#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://i.imgur.com/afg06F8.png" group-title="CHILE", CL | Chilevision
-http://181.78.88.113:9800/play/a05h/index.m3u8
-
-#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/la-red.png" group-title="CHILE", CL | La Red
-http://181.78.88.113:9800/play/a09n/index.m3u8
-
-#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://i.imgur.com/MYv7pra.png" group-title="CHILE", CL | TV+
-http://181.78.88.113:9800/play/a09m/index.m3u8
-
-#EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://i.imgur.com/S0eB6q2.png" group-title="CHILE", CL | Zona Latina
-http://45.170.130.224:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://i.imgur.com/hUHOIco.png" group-title="ARGENTINA", AR | A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
@@ -137,6 +110,39 @@ http://138.59.227.20:8000/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", AR | Telefe
 http://45.173.231.22:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://i.imgur.com/viJRTwI.png" group-title="CHILE", CL | Mega
+http://181.78.88.113:9800/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-id="584" tvg-logo="https://i.imgur.com/YznOgYN.png" group-title="CHILE", CL | Mega 2
+http://181.78.88.113:9800/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/canal-13.png" group-title="CHILE", CL | Canal 13
+http://181.78.88.113:9800/play/a067/index.m3u8
+
+#EXTINF:-1 tvg-id="549" tvg-logo="https://i.imgur.com/GXqnpfc.png" group-title="CHILE", CL | T13 En Vivo
+http://181.78.88.113:9800/play/a0aj/index.m3u8
+
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/tvn.png" group-title="CHILE", CL | TVN
+http://181.78.88.113:9800/play/a09f/index.m3u8
+
+#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://i.imgur.com/3cSAXUb.png" group-title="CHILE", CL | Canal 24 Horas
+http://181.78.88.113:9800/play/a09o/index.m3u8
+
+#EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/ntv.png" group-title="CHILE", CL | NTV
+http://181.78.88.113:9800/play/a0ak/index.m3u8
+
+#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://i.imgur.com/afg06F8.png" group-title="CHILE", CL | Chilevision
+http://181.78.88.113:9800/play/a05h/index.m3u8
+
+#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://entel.cdn.modyo.com/libraries/recursos/src/icon-lit/canales/la-red.png" group-title="CHILE", CL | La Red
+http://181.78.88.113:9800/play/a09n/index.m3u8
+
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://i.imgur.com/MYv7pra.png" group-title="CHILE", CL | TV+
+http://181.78.88.113:9800/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://i.imgur.com/S0eB6q2.png" group-title="CHILE", CL | Zona Latina
+http://45.170.130.224:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="abc-tv.py" tvg-logo="https://i.imgur.com/c7zFfFk.png" group-title="PARAGUAY", PY | ABC TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
@@ -614,9 +620,6 @@ http://38.190.100.202:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://i.imgur.com/URuaRAx.png" group-title="RTVE PLAY (PREMIUM)", RTVE | TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-id="clan.es" tvg-logo="https://i.imgur.com/YgrZhRw.png" group-title="RTVE PLAY (PREMIUM)", RTVE | Clan
-http://38.224.231.176:8000/play/a0c8/index.m3u8
 
 #EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://i.imgur.com/iryNE2f.png" group-title="RTVE PLAY (PREMIUM)", RTVE | 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8?idasset=5466990
