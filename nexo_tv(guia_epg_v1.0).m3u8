@@ -10,7 +10,7 @@ http://190.93.224.42/LATINA/index.m3u8
 http://190.93.224.42/RPP/index.m3u8
 
 #EXTINF:-1 tvg-id="4mvstr.pe" tvg-logo="https://i.imgur.com/0qEWYWQ.png" group-title="PERÚ", (004) América TV Perú
-http://190.93.224.42/AMERICA-TV/index.m3u8
+http://190.93.224.42/IPE/index.m3u8
 
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.imgur.com/BmeHpWf.png" group-title="PERÚ", (005) Panamericana Perú
 http://190.93.224.42/PANAMERICANA/index.m3u8
@@ -134,9 +134,6 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="https://i.imgur.com/GfK0yYZ.png" group-title="ARGENTINA", AR | Paka Paka
 http://138.59.227.20:8000/play/a05t/index.m3u8
-
-#EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1269.png" group-title="ARGENTINA", AR | QMEMI
-http://138.59.227.20:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="AR | Telefe" tvg-logo="https://i.imgur.com/fPZE8xv.png" group-title="ARGENTINA", AR | Telefe
 http://45.173.231.22:8000/play/a053/index.m3u8
@@ -348,9 +345,6 @@ https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorprem
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/gauUces.png" group-title="DEPORTES", EC | ECDF
 http://45.226.205.96:48000/play/a08y/index.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/KL5adme.png" group-title="DEPORTES", URU | DSports Uruguay
-http://186.33.57.100:8000/play/a2o3/index.m3u8
-
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://i.imgur.com/eIqVLpG.png" group-title="CINE & SERIES", CINE | AMC
 https://streaming.onnethn.com/AMC/playlist.m3u8
 
@@ -537,9 +531,6 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="https://i.imgur.com/z5MLn9C.png" group-title="NOTICIAS", NOT | Todo Noticias
 http://138.59.227.20:8000/play/a097/index.m3u8
 
-#EXTINF:-1 tvg-id="659" tvg-logo="https://i.imgur.com/Xwoyoja.png" group-title="NOTICIAS", NOT | Euronews Español
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
-
 #EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://i.imgur.com/zHAbSG1.png" group-title="NOTICIAS", NOT | DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
@@ -567,6 +558,9 @@ http://38.224.48.4:8000/play/a0mf/index.m3u8
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/mOXgvgQ.png" group-title="INTERNACIONALES", INT | TV Chile
 http://45.239.31.254:8000/play/a021/index.m3u8
 
+#EXTINF:-1 tvg-id="776dtv.cl" tvg-logo="https://i.imgur.com/9jbNDf7.png" group-title="INTERNACIONALES", INT | Globo Internacional
+http://181.232.188.21:8282/play/a05t/index.m3u8
+
 #EXTINF:-1 tvg-id="bethel.la" tvg-logo="https://i.imgur.com/6Emseyl.png" group-title="RELIGIÓN", REL | Bethel
 https://cablered.iptvperu.tv:1936/cablered/bethel_new/playlist.m3u8
 
@@ -587,6 +581,9 @@ https://streaming.onnethn.com/HTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/co3FWx4.png" group-title="MÚSICA", MU | TOP Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1269.png" group-title="MÚSICA", MU | QMEMI
+http://138.59.227.20:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/7vczPd6.png" group-title="MÚSICA", MU | QUE Música TV
 https://app.viloud.tv/hls/channel/c213aa8281b83a14b0bde1e71dca91b0.m3u8
@@ -689,6 +686,9 @@ http://201.240.104.137:8000/play/dtv2/index.m3u8
 
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/pZdQV0z.png" group-title="DSPORTS (PREMIUM)", DTV | DSports+
 http://201.240.104.137:8000/play/dtvmas/index.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/KL5adme.png" group-title="DSPORTS (PREMIUM)", DTV | DSports Uruguay
+http://186.33.57.100:8000/play/a2o3/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/yEbQJB0.png" group-title="MOVISTAR (SOLO PERÚ)", M | Canal N Perú
 http://45.186.254.75:8000/play/a09i/index.m3u8
@@ -1028,9 +1028,6 @@ https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 
 #EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="PLUTO (FAST)", Paisajes por Stingray
 https://jmp2.uk/plu-5f4fed840a2764000720d966.m3u8
-
-#EXTINF:-1 tvg-id="6495c6ad115d060008bf6b52" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG_1790867210933.png" group-title="PLUTO (FAST)", PAW Patrol Patrulla de Cachorros
-https://jmp2.uk/plu-6495c6ad115d060008bf6b52.m3u8
 
 #EXTINF:-1 tvg-id="64f6163a30ab3300083d870e" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" group-title="PLUTO (FAST)", PFL MMA
 https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
