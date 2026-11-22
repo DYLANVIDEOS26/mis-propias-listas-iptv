@@ -681,19 +681,19 @@ http://38.190.100.202:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="575dtv.cl" tvg-logo="https://i.imgur.com/0iFaYx9.png" group-title="UNIVERSAL+ (PREMIUM)", U+ | Universal Reality
 http://38.190.100.202:8000/play/a04r/index.m3u8
 
-#EXTINF:-1 tvg-id="700dtv.cl" tvg-logo="https://i.imgur.com/VAZiDmV.png" group-title="DSPORTS (PREMIUM)", DTV | DNews
+#EXTINF:-1 tvg-id="700dtv.cl" tvg-logo="https://i.imgur.com/VAZiDmV.png" group-title="DIRECTV (PREMIUM)", DTV | DNews
 https://sitsastr2.qvixsolutions.com/stsa_dnewshd/index.mpd?filter.tracks=v1v2a1a2&token=32ead195065e74dd379010598af918a1cbce0f6c-P18e%7C5299%7C87857%7C1-1795313716-1795298416
 
-#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DSPORTS (PREMIUM)", DTV | DSports
+#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DIRECTV (PREMIUM)", DTV | DSports
 http://201.240.104.137:8000/play/a0c8/index.m3u8
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/1bD3N9i.png" group-title="DSPORTS (PREMIUM)", DTV | DSports 2
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/1bD3N9i.png" group-title="DIRECTV (PREMIUM)", DTV | DSports 2
 http://201.240.104.137:8000/play/dtv2/index.m3u8
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/pZdQV0z.png" group-title="DSPORTS (PREMIUM)", DTV | DSports+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/pZdQV0z.png" group-title="DIRECTV (PREMIUM)", DTV | DSports+
 http://201.240.104.137:8000/play/dtvmas/index.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/KL5adme.png" group-title="DSPORTS (PREMIUM)", DTV | DSports Uruguay
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/KL5adme.png" group-title="DIRECTV (PREMIUM)", DTV | DSports Uruguay
 http://186.33.57.100:8000/play/a2o3/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/yEbQJB0.png" group-title="MOVISTAR (SOLO PERÚ)", M | Canal N Perú
