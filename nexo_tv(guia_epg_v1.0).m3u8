@@ -465,6 +465,9 @@ https://cablered.iptvperu.tv:1936/cablered/tntnovelas_new/playlist.m3u8
 #EXTINF:-1 tvg-id="az-corazon.mx" tvg-logo="https://i.imgur.com/SMQtn2p.png" group-title="NOVELAS", NOV | Corazón
 http://190.108.90.142:8000/play/a03f/index.m3u8
 
+#EXTINF:-1 tvg-id="653" tvg-logo="https://provider-static.plex.tv/epg/cms/production/edace34e-ac45-44b7-a562-265977557817/Vive_KDD_LOGO-DarkBG_-_Alejandro_N.png" group-title="NOVELAS", NOV | Vive Kanal D Drama
+https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
+
 #EXTINF:-1 tvg-id="561" tvg-logo="https://i.imgur.com/lxYfFGA.png" group-title="VARIADOS", VAR | Adult Swim
 https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
 
@@ -537,6 +540,9 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="https://i.imgur.com/z5MLn9C.png" group-title="NOTICIAS", NOT | Todo Noticias
 http://138.59.227.20:8000/play/a097/index.m3u8
 
+#EXTINF:-1 tvg-id="659" tvg-logo="https://i.imgur.com/xiJL9BI.png" group-title="NOTICIAS", NOT | Euronews Español
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+
 #EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://i.imgur.com/zHAbSG1.png" group-title="NOTICIAS", NOT | DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
@@ -592,7 +598,7 @@ https://streaming.onnethn.com/HTV/playlist.m3u8
 http://38.87.224.20:2220/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/7vczPd6.png" group-title="MÚSICA", MU | QUE Música TV
-https://app.viloud.tv/hls/channel/c213aa8281b83a14b0bde1e71dca91b0.m3u8
+https://app.viloud.tv/hls/channel/4d2db440f1ea2edcb66d4a1d436b0e6a.m3u8
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="HBO (PREMIUM)", HBO | HBO Latino
 http://38.190.100.202:8000/play/a0bc/index.m3u8
@@ -681,19 +687,16 @@ http://38.190.100.202:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="575dtv.cl" tvg-logo="https://i.imgur.com/0iFaYx9.png" group-title="UNIVERSAL+ (PREMIUM)", U+ | Universal Reality
 http://38.190.100.202:8000/play/a04r/index.m3u8
 
-#EXTINF:-1 tvg-id="700dtv.cl" tvg-logo="https://i.imgur.com/VAZiDmV.png" group-title="DIRECTV (PREMIUM)", DTV | DNews
-https://sitsastr2.qvixsolutions.com/stsa_dnewshd/index.mpd?filter.tracks=v1v2a1a2&token=32ead195065e74dd379010598af918a1cbce0f6c-P18e%7C5299%7C87857%7C1-1795313716-1795298416
-
-#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DIRECTV (PREMIUM)", DTV | DSports
+#EXTINF:-1 tvg-id="610dtv.co" tvg-logo="https://i.imgur.com/LfwrKzb.png" group-title="DSPORTS (PREMIUM)", DTV | DSports
 http://201.240.104.137:8000/play/a0c8/index.m3u8
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/1bD3N9i.png" group-title="DIRECTV (PREMIUM)", DTV | DSports 2
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/1bD3N9i.png" group-title="DSPORTS (PREMIUM)", DTV | DSports 2
 http://201.240.104.137:8000/play/dtv2/index.m3u8
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/pZdQV0z.png" group-title="DIRECTV (PREMIUM)", DTV | DSports+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/pZdQV0z.png" group-title="DSPORTS (PREMIUM)", DTV | DSports+
 http://201.240.104.137:8000/play/dtvmas/index.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/KL5adme.png" group-title="DIRECTV (PREMIUM)", DTV | DSports Uruguay
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/KL5adme.png" group-title="DSPORTS (PREMIUM)", DTV | DSports Uruguay
 http://186.33.57.100:8000/play/a2o3/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/yEbQJB0.png" group-title="MOVISTAR (SOLO PERÚ)", M | Canal N Perú
@@ -836,9 +839,6 @@ https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
 
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="PLUTO (FAST)", Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
-
-#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG_1781045575622.png" group-title="PLUTO (FAST)", Euronews Español
-https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 
 #EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="PLUTO (FAST)", FailArmy
 https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
@@ -1295,9 +1295,6 @@ https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
 #EXTINF:-1 tvg-id="678533155e0e6a000828cd48" tvg-logo="https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png" group-title="PLUTO (FAST)", Untold Stories of the ER
 https://jmp2.uk/plu-678533155e0e6a000828cd48.m3u8
-
-#EXTINF:-1 tvg-id="639751f81a36b400072b8f5a" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="PLUTO (FAST)", Vive Kanal D Drama
-https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 
 #EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="PLUTO (FAST)", Wipe Out
 https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
