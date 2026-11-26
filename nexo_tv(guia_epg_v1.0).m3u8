@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml.gz"
 
-#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.imgur.com/ShljCPM.png" group-title="PERÚ", (001) Willax Perú
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://i.imgur.com/xbgEdK7.png" group-title="PERÚ", (001) Willax Perú
 http://190.93.224.42/WILLAX/index.m3u8
 
 #EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://i.imgur.com/PBLumj8.png" group-title="PERÚ", (002) Latina Perú
 http://190.93.224.42/LATINA/index.m3u8
 
-#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/SDhlh83.png" group-title="PERÚ", (003) RPP TV Perú
+#EXTINF:-1 tvg-id="475" tvg-logo="https://i.imgur.com/qcrxsd6.png" group-title="PERÚ", (003) RPP TV Perú
 http://190.93.224.42/RPP/index.m3u8
 
 #EXTINF:-1 tvg-id="4mvstr.pe" tvg-logo="https://i.imgur.com/0qEWYWQ.png" group-title="PERÚ", (004) América TV Perú
@@ -15,13 +15,13 @@ http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://i.imgur.com/BmeHpWf.png" group-title="PERÚ", (005) Panamericana Perú
 http://190.93.224.42/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.imgur.com/OpkpqIc.png" group-title="PERÚ", (006) Exitosa TV Perü
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://i.imgur.com/gZa3vLi.png" group-title="PERÚ", (006) Exitosa TV Perü
 http://190.93.224.42/EXITOSA/index.m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1795.png" group-title="PERÚ", (007) TV Perú
 http://190.93.224.42/TV-PERU/index.m3u8
 
-#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/nSnspv8.png" group-title="PERÚ", (008) ATV+ Perú
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://i.imgur.com/5mlAV4c.png" group-title="PERÚ", (008) ATV+ Perú
 http://190.93.224.42/ATV-PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://i.imgur.com/uaXIown.png" group-title="PERÚ", (009) ATV Perú
@@ -33,7 +33,7 @@ http://190.93.224.42/PBO/index.m3u8
 #EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://i.imgur.com/KZDAx7Z.png" group-title="PERÚ", (011) Viva TV Perú
 http://38.87.224.20:2220/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://i.imgur.com/UoGuekN.png" group-title="PERÚ", (012) La Tele Perú
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://i.imgur.com/Pw9EiXe.png" group-title="PERÚ", (012) La Tele Perú
 http://190.93.224.42/LA-TELE/index.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://i.imgur.com/MJmGtGN.png" group-title="PERÚ", (013) Global Perú
@@ -45,7 +45,7 @@ http://190.93.224.42/USMP/index.m3u8
 #EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://i.imgur.com/ndS5v9H.png" group-title="PERÚ", (015) Canal IPe Perú
 http://38.87.224.20:2220/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-id="541mvstr.pe" tvg-logo="https://i.imgur.com/3xEGNjS.png" group-title="PERÚ", (016) TVLibertad Perú
+#EXTINF:-1 tvg-id="541mvstr.pe" tvg-logo="https://i.imgur.com/XlJAom4.png" group-title="PERÚ", (016) TVLibertad Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/tvlibertadSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://i.imgur.com/tQkYbqQ.png" group-title="PERÚ", (017) Juntos TV
@@ -66,7 +66,7 @@ http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="550mvstr.pe" tvg-logo="https://i.imgur.com/7TqIg03.png" group-title="PERÚ", (022) Congreso TV
 http://tvdirect.pro:8080/live/tupadre10/Chrisxd10/269047.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/b4KRNjo.png" group-title="PERÚ", (023) La Tremenda Perú
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/q1befaq.png" group-title="PERÚ", (023) La Tremenda Perú
 https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/kV63sRX.png" group-title="PERÚ", (024) Karibeña TV Perú
@@ -93,7 +93,7 @@ http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090558&exte
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="https://i.imgur.com/KmRQYDG.png" group-title="ARGENTINA", AR | CineAR
 http://138.59.227.20:8000/play/a069/index.m3u8
 
-#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/718.png" group-title="ARGENTINA", AR | Crónica
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.CrnicaTV.png.5e6ebaa11dc0248fe0054bb28a2893de.png" group-title="ARGENTINA", AR | Crónica
 http://138.59.227.20:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://i.imgur.com/B01Sg94.png" group-title="ARGENTINA", AR | El Nueve
@@ -393,7 +393,7 @@ https://streaming.onnethn.com/STUDIO_UNIVERSAL_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="504dtv.cl" tvg-logo="https://i.imgur.com/vtGCzlq.png" group-title="CINE & SERIES", CINE | TCM
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://i.imgur.com/cjyjH9i.png" group-title="CINE & SERIES", CINE | TNT
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="https://i.imgur.com/n0jeyY2.png" group-title="CINE & SERIES", CINE | TNT
 https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="https://i.imgur.com/xo4hhlM.png" group-title="CINE & SERIES", CINE | Warner Channel
@@ -405,7 +405,7 @@ https://cablered.iptvperu.tv:1936/cablered/amc_series.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://i.imgur.com/SEAq1Zo.png" group-title="CINE & SERIES", SERIES | AXN
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://i.imgur.com/mHL9aK8.png" group-title="CINE & SERIES", SERIES | TNT Series
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://i.imgur.com/Q0Bm7js.png" group-title="CINE & SERIES", SERIES | TNT Series
 https://streaming.onnethn.com/TNT_SERIES/playlist.m3u8
 
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="https://i.imgur.com/qLTp2jn.png" group-title="CINE & SERIES", SERIES | Universal TV
@@ -429,19 +429,19 @@ https://streaming.onnethn.com/BABY_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://i.imgur.com/ceMYa7p.png" group-title="KIDS", KIDS | Disney Channel
 https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://i.imgur.com/sZ71GF7.png" group-title="KIDS", KIDS | Disney Jr.
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_08/small.disneyjr.png.bbcff297cf62aca4b39b523aa15a355e.png" group-title="KIDS", KIDS | Disney Jr.
 https://streaming.onnethn.com/DISNEY_JR_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="https://i.imgur.com/nq7Gglv.png" group-title="KIDS", KIDS | Nickelodeon
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="https://foros.forounivers.com/uploads/monthly_2023_08/small_Nick.png.82ff06e4bc20c8a51e870cd0bcf54bfb.png" group-title="KIDS", KIDS | Nickelodeon
 http://38.87.224.20:2220/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-id="309dtv.cl" tvg-logo="https://i.imgur.com/ofvuKa6.png" group-title="KIDS", KIDS | Nick Jr.
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/small.NickJr..png.769964a47a83594f74ab6a2011655cb4.png" group-title="KIDS", KIDS | Nick Jr.
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dreamworks.la" tvg-logo="https://i.imgur.com/YrsmN0r.png" group-title="KIDS", KIDS | Dreamworks
 https://cablered.iptvperu.tv:1936/cablered/dreamworks.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="651" tvg-logo="https://i.imgur.com/yYQnBS8.png" group-title="KIDS", KIDS | Plim Plim
+#EXTINF:-1 tvg-id="651" tvg-logo="https://i.imgur.com/yxqYnSA.png" group-title="KIDS", KIDS | Plim Plim
 https://cablered.iptvperu.tv:1936/cablered/plimplim.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png" group-title="KIDS", KIDS | El Reino Infantil
@@ -459,14 +459,11 @@ https://streaming.onnethn.com/PASIONES/playlist.m3u8
 #EXTINF:-1 tvg-id="977mvstr.co" tvg-logo="https://i.imgur.com/6qTxNx3.png" group-title="NOVELAS", NOV | RCN Novelas
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="864mvstr.co" tvg-logo="https://i.imgur.com/Pwp0P5j.png" group-title="NOVELAS", NOV | TNT Novelas
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-logo="https://i.imgur.com/jbWJHKU.png" group-title="NOVELAS", NOV | TNT Novelas
 https://cablered.iptvperu.tv:1936/cablered/tntnovelas_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="az-corazon.mx" tvg-logo="https://i.imgur.com/SMQtn2p.png" group-title="NOVELAS", NOV | Corazón
 http://190.108.90.142:8000/play/a03f/index.m3u8
-
-#EXTINF:-1 tvg-id="653" tvg-logo="https://provider-static.plex.tv/epg/cms/production/edace34e-ac45-44b7-a562-265977557817/Vive_KDD_LOGO-DarkBG_-_Alejandro_N.png" group-title="NOVELAS", NOV | Vive Kanal D Drama
-https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 
 #EXTINF:-1 tvg-id="561" tvg-logo="https://i.imgur.com/lxYfFGA.png" group-title="VARIADOS", VAR | Adult Swim
 https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
@@ -522,7 +519,7 @@ https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 #EXTINF:-1 tvg-id="741dtv.cl" tvg-logo="https://i.imgur.com/4G2mhlo.png" group-title="CULTURAL", CUL | Sun Channel
 http://187.102.210.46/sunchannel/index.m3u8
 
-#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/229.png" group-title="ESTILO DE VIDA", EDV | Discovery H&H
+#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="https://i.imgur.com/ySbslmv.png" group-title="ESTILO DE VIDA", EDV | Discovery H&H
 https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/3c0lrk0.png" group-title="ESTILO DE VIDA", EDV | Food Network
@@ -539,12 +536,6 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="https://i.imgur.com/z5MLn9C.png" group-title="NOTICIAS", NOT | Todo Noticias
 http://138.59.227.20:8000/play/a097/index.m3u8
-
-#EXTINF:-1 tvg-id="659" tvg-logo="https://i.imgur.com/xiJL9BI.png" group-title="NOTICIAS", NOT | Euronews Español
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
-
-#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://i.imgur.com/zHAbSG1.png" group-title="NOTICIAS", NOT | DW en Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 #EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://i.imgur.com/vqflNtQ.png" group-title="NOTICIAS", NOT | France 24 en Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
@@ -564,17 +555,20 @@ https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 #EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://i.imgur.com/eRPVeOF.png" group-title="INTERNACIONALES", INT | Caracol Internacional
 http://167.249.23.102:8000/play/a0ax/index.m3u8
 
-#EXTINF:-1 tvg-id="790dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/790.png" group-title="INTERNACIONALES", INT | CGTN Español
+#EXTINF:-1 tvg-id="790dtv.cl" tvg-logo="https://i.imgur.com/sFurJNb.png" group-title="INTERNACIONALES", INT | CGTN Español
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="https://i.imgur.com/zHAbSG1.png" group-title="INTERNACIONALES", NOT | DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
 #EXTINF:-1 tvg-id="784dtv.cl" tvg-logo="https://i.imgur.com/Q8rPoMg.png" group-title="INTERNACIONALES", INT | El Trece Internacional
 http://38.224.48.4:8000/play/a0mf/index.m3u8
 
+#EXTINF:-1 tvg-id="776dtv.cl" tvg-logo="https://i.imgur.com/KaWbaIx.png" group-title="INTERNACIONALES", INT | Globo Internacional
+http://181.232.188.21:8282/play/a05t/index.m3u8
+
 #EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://i.imgur.com/mOXgvgQ.png" group-title="INTERNACIONALES", INT | TV Chile
 http://45.239.31.254:8000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-id="776dtv.cl" tvg-logo="https://i.imgur.com/9jbNDf7.png" group-title="INTERNACIONALES", INT | Globo Internacional
-http://181.232.188.21:8282/play/a05t/index.m3u8
 
 #EXTINF:-1 tvg-id="352dtv.cl" tvg-logo="https://i.imgur.com/EO2vmwM.png" group-title="RELIGIÓN", REL | Enlace
 https://cablered.iptvperu.tv:1936/cablered/enlace_new/playlist.m3u8
@@ -600,7 +594,7 @@ https://streaming.onnethn.com/HTV/playlist.m3u8
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/co3FWx4.png" group-title="MÚSICA", MU | TOP Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/7vczPd6.png" group-title="MÚSICA", MU | QUE Música TV
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/7vczPd6.png" group-title="MÚSICA", MU | QUE Música TV (Exclusivo)
 https://app.viloud.tv/hls/channel/4d2db440f1ea2edcb66d4a1d436b0e6a.m3u8
 
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="https://i.imgur.com/7u7TwKV.png" group-title="HBO (PREMIUM)", HBO | HBO Latino
@@ -893,6 +887,9 @@ https://jmp2.uk/plu-699763d184235f26d5056002.m3u8
 
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="PLUTO (FAST)", Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+
+#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG_1781045575622.png" group-title="PLUTO (FAST)", Euronews Español
+https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 
 #EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="PLUTO (FAST)", FailArmy
 https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
@@ -1352,6 +1349,9 @@ https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
 #EXTINF:-1 tvg-id="678533155e0e6a000828cd48" tvg-logo="https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png" group-title="PLUTO (FAST)", Untold Stories of the ER
 https://jmp2.uk/plu-678533155e0e6a000828cd48.m3u8
+
+#EXTINF:-1 tvg-id="639751f81a36b400072b8f5a" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="PLUTO (FAST)", Vive Kanal D Drama
+https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 
 #EXTINF:-1 tvg-id="5ed6828192e8b3000743ef61" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png" group-title="PLUTO (FAST)", Wipe Out
 https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
